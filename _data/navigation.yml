@@ -3,9 +3,9 @@ main:
   - title: "Bacharelado em Ciência da Computação"
     url: /bcc/
   - title: "Licenciatura em Computação"
-    url: /year-archive/
+    url: /lc/
   - title: "Técnico em Manutenção e Suporte em Informática"
-    url: /collection-archive/
+    url: /msi/
 bcc:
   - title: "Apresentação"
     url: /bcc/apresentacao
