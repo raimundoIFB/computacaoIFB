@@ -39,7 +39,7 @@ tags:
 - Título:  *Criação de um Banco de Dados em Grafos para Estruturas Secundárias de SnoRNAs*
 - Data: 02/07/2019, terça-feira, às 14h00.
 - Orientador: João Victor de Araújo Oliveira
-- Banca Examinadora: Raimundo Cláudio Vasconcelos e Waldeyr Cordeiro Mendes (IFG-Formosa)
+- Banca Examinadora: Raimundo Cláudio Vasconcelos e Waldeyr Mendes Cordeiro da Silva (IFG-Formosa)
 
 -----
 
