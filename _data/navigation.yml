@@ -1,12 +1,84 @@
-# main links
+# # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Bacharelado em Ciência da Computação"
+    url: /bcc/
+  - title: "Licenciatura em Computação"
+    url: /year-archive/
+  - title: "Técnico em Manutenção e Suporte em Informática"
+    url: /collection-archive/
+bcc:
+  - title: "Apresentação"
+    url: /bcc/apresentacao
+  - title: "Estrutura Curricular"
+    url: /bcc/curriculo
+  - title: "Ementário"
+    url: /bcc/ementario
+  - title: "Docentes"
+    url: /bcc/docentes
+  - title: "Projeto Integrador"
+    url: /bcc/projeto-integrador
+  - title: "Atividades Complementares"
+    url: /bcc/atividades-complementares
+  - title: "Estágio Curricular"
+    url: /bcc/estagio-curricular
+  - title: "TCC"
+    url: /bcc/tcc
+  - title: "Calendário Acadêmico"
+    url: /bcc/calendario
+  - title: "Horários"
+    url: /bcc/horarios
+  - title: "Documentos"
+    url: /bcc/documentos
+lc:
+  - title: "Apresentação"
+    url: /lc/apresentacao
+  - title: "Estrutura Curricular"
+    url: /lc/curriculo
+  - title: "Ementário"
+    url: /lc/ementario
+  - title: "Docentes"
+    url: /lc/docentes
+  - title: "Projeto Integrador"
+    url: /lc/projeto-integrador
+  - title: "Pesquisa e Extensão"
+    url: /lc/pesquisa-e-extensao
+  - title: "Atividades Complementares"
+    url: /lc/atividades-complementares
+  - title: "Estágio Curricular"
+    url: /lc/estagio-curricular
+  - title: "TCC"
+    url: /lc/tcc
+  - title: "Calendário Acadêmico"
+    url: /lc/calendario
+  - title: "Horários"
+    url: /lc/horarios
+  - title: "Biblioteca"
+    url: http://siabi.ifb.edu.br/
+  - title: "Documentos"
+    url: /lc/documentos
+msi:
+  - title: "Apresentação"
+    url: /msi/apresentacao
+  - title: "Estrutura Curricular"
+    url: /msi/curriculo
+  - title: "Ementário"
+    url: /msi/ementario
+  - title: "Docentes"
+    url: /msi/docentes
+  - title: "Projeto Integrador"
+    url: /msi/projeto-integrador
+  - title: "Atividades Complementares"
+    url: /msi/atividades-complementares
+  - title: "Estágio Curricular"
+    url: /msi/estagio-curricular
+  - title: "TCC"
+    url: /msi/tcc
+  - title: "Calendário Acadêmico"
+    url: /msi/calendario
+  - title: "Horários"
+    url: /msi/horarios
+  - title: "Biblioteca"
+    url: http://siabi.ifb.edu.br/
+  - title: "Documentos"
+    url: /msi/documentos
+  
