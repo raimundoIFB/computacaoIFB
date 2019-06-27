@@ -19,12 +19,16 @@ tags:
 - Orientador: Leandro Vaguetti
 - Banca Examinadora: João Victor Araújo de Oliveira e José Gonçalo dos Santos
 
+-----
+
 - Categoria: PCC
 - Aluno(a)(s): João Gabriel Meneses Pereira e Rodrigo de Oliveira Freire
 - Título:  *Estudo e Caracterização do Mapeamento de Projetos Orientados a Objetos para Bancos  de Dados NOSQL*
 - Data: 02/07/2019, terça-feira, às 9h30.
 - Orientador: Leandro Vaguetti
 - Banca Examinadora: João Victor Araújo de Oliveira e José Gonçalo dos Santos
+
+-----
 
 - Categoria: PCC
 - Estudante(s): Carolina Ataíde de Assis
@@ -33,12 +37,16 @@ tags:
 - Orientador: João Victor de Araújo Oliveira
 - Banca Examinadora: Raimundo Cláudio Vasconcelos e Waldeyr Cordeiro Mendes (IFG-Formosa)
 
+-----
+
 - Categoria: PCC
 - Estudante(s): Lauany Reis da Silva
 - Título:  *Utilização da Programação Paralela com OPENMP para Construção de K²-Trees*
 - Data: 02/07/2019, terça-feira, às 14h40.
 - Orientador: Daniel Saad Nogueira Nunes
 - Banca Examinadora: Fabiano Cavalcanti Fernandes e João Victor Araújo de Oliveira
+
+-----
 
 - Categoria: PCC
 - Estudante(s): Rafael Araujo da Silva
@@ -47,6 +55,7 @@ tags:
 - Orientador: Daniel Saad Nogueira Nunes
 - Banca Examinadora: Fabiano Cavalcanti Fernandes e João Victor Araújo de Oliveira
 
+-----
 
 - Categoria: PCC
 - Estudante(s): Ana Clara Cedro Guimarães e Lucas Martins Mendes Vieira
