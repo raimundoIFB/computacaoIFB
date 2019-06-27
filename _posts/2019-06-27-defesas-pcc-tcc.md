@@ -3,9 +3,13 @@ title: "Defesas PCC/TCC 2019/2"
 excerpt: "Calendário de defesas PCC/TCC 2019/2."
 author_profile: false
 categories:
-  - defesa, pcc, tcc
+  - defesa
+  - pcc 
+  - tcc
 tags:
-  - pcc, tcc, defesa
+  - pcc 
+  - tcc 
+  - defesa
 ---
 
 ## Bacharelado
