@@ -23,6 +23,7 @@ tags:
 - Local: SB1-03
 - Orientador(a): Leandro Vaguetti
 - Banca Examinadora: João Victor Araújo de Oliveira e José Gonçalo dos Santos
+
 -----
 
 - Categoria: PCC
@@ -42,6 +43,7 @@ tags:
 - Local: Anfiteatro B1-08
 - Orientador(a): João Victor de Araújo Oliveira
 - Banca Examinadora: Raimundo Cláudio Vasconcelos e Waldeyr Mendes Cordeiro da Silva (IFG-Formosa)
+
 -----
 
 - Categoria: PCC
@@ -52,6 +54,7 @@ tags:
 - Orientador(a): Daniel Saad Nogueira Nunes
 - Banca Examinadora: Fabiano Cavalcanti Fernandes e João Victor Araújo de Oliveira
 - Local: Anfiteatro B1-08
+
 -----
 
 - Categoria: PCC
@@ -62,6 +65,7 @@ tags:
 - Orientador(a): Daniel Saad Nogueira Nunes
 - Banca Examinadora: Fabiano Cavalcanti Fernandes e João Victor Araújo de Oliveira
 - Local: Anfiteatro B1-08
+
 -----
 
 - Categoria: PCC
