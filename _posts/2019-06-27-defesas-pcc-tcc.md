@@ -1,6 +1,6 @@
 ---
-title: "Defesas PCC/TCC 2019/2"
-excerpt: "Calendário de defesas PCC/TCC 2019/2."
+title: "Defesas PCC/TCC 2019/1"
+excerpt: "Calendário de defesas PCC/TCC 2019/1."
 author_profile: false
 categories:
   - defesa
