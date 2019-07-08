@@ -39,9 +39,7 @@ O importante no caso da formação do licenciado em informática é a caracteriz
 
 O tratamento das licenciaturas como processo de formação distinta do bacharelado procura evidenciar a identidade própria das licenciaturas, a qual poderá ser consolidada com base nos documentos de Diretrizes de “Currículo de Referência para cursos de Licenciatura em Computação”, proposta pela SBC, em um Projeto Pedagógico específico do curso. O projeto pedagógico do curso deverá garantir a identidade da licenciatura como um processo de formação contínuo desde o início do curso e não apenas em disciplinas, matérias pedagógicas e estágios ao final do curso.
 
-FORMA DE INGRESSO: Para ingressar no curso superior de Licenciatura em Computação, os candidatos serão selecionados pela nota do Enem (Exame Nacional do Ensino Médio). Veja mais em:
-
-http://www.ifb.edu.br/estude-no-ifb
+FORMA DE INGRESSO: Para ingressar no curso superior de Licenciatura em Computação, os candidatos serão selecionados pela nota do Enem (Exame Nacional do Ensino Médio). Veja mais em: [http://www.ifb.edu.br/estude-no-ifb](http://www.ifb.edu.br/estude-no-ifb).
 
  
 

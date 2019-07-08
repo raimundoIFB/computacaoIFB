@@ -5,4 +5,4 @@ title: "Calendário Acadêmico"
 sidebar:
     nav: "lc"
 ---
-[Calendário Acadêmico 2019/2](/assets/lc/calendario-academico-2019-2)
+[Calendário Acadêmico 2019/2]({{ site.url }}/assets/lc/calendario-academico-2019-2)

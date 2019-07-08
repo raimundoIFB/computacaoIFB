@@ -43,4 +43,4 @@ Por isso, o contato com a prática docente está presente desde o início – e 
 
 Cabe destacar que, para a execução deste Projeto, considera-se essencial proporcionar aos estudantes-professores um diálogo dos saberes que se encontram na ação docente. Para que isso ocorra e para que de fato esta proposta possa ser efetivada tomando como base o princípio de articulação entre os núcleos e os saberes, é necessário que o corpo docente que atuará no curso realize o planejamento das aulas coletivamente, devendo-se destinar uma hora para o planejamento coletivo por semana, com o dia e o horário a serem definidos a cada período letivo.
 
-[Estrutura curricular](/assets/lc/estrutura-curricular.png)
+[Estrutura curricular]({{site.url}}/assets/lc/estrutura-curricular.png)
