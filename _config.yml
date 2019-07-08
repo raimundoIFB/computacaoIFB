@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "pt-BR"
 title                    : "Computação IFB"
 title_separator          : "-"
-name                     : ""
+name                     : "Computação IFB"
 description              : "Portal dos cursos de Computação do IFB-Taguatinga."
-url                      : "https://danielsaad.com/computacao-ifb
+url                      : "https://danielsaad.com/computacao-ifb"
 # url: localhost:4000
 baseurl                  : # the subpath of your site, e.g. "/computacao-ifb"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
