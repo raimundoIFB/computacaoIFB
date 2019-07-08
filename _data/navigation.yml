@@ -1,10 +1,13 @@
 # # main links
 main:
   - title: "Bacharelado em Ciência da Computação"
+    abbreviation: "BCC"
     url: /bcc/
   - title: "Licenciatura em Computação"
+    abbreviation: "LC"
     url: /lc/
   - title: "Técnico em Manutenção e Suporte em Informática"
+    abbreviation: "MSI"
     url: /msi/
 bcc:
   - title: "Apresentação"
