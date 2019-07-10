@@ -6,9 +6,9 @@ main:
   - title: "Licenciatura em Computação"
     abbreviation: "LC"
     url: /lc/
-  - title: "Técnico em Manutenção e Suporte em Informática"
-    abbreviation: "MSI"
-    url: /msi/
+  # - title: "Técnico em Manutenção e Suporte em Informática"
+  #   abbreviation: "MSI"
+  #   url: /msi/
 bcc:
   - title: "Apresentação"
     url: /bcc/apresentacao
@@ -18,8 +18,6 @@ bcc:
     url: /bcc/ementario
   - title: "Docentes"
     url: /bcc/docentes
-  - title: "Projeto Integrador"
-    url: /bcc/projeto-integrador
   - title: "Atividades Complementares"
     url: /bcc/atividades-complementares
   - title: "Estágio Curricular"
@@ -59,29 +57,29 @@ lc:
     url: http://siabi.ifb.edu.br/
   - title: "Documentos"
     url: /lc/documentos
-msi:
-  - title: "Apresentação"
-    url: /msi/apresentacao
-  - title: "Estrutura Curricular"
-    url: /msi/curriculo
-  - title: "Ementário"
-    url: /msi/ementario
-  - title: "Docentes"
-    url: /msi/docentes
-  - title: "Projeto Integrador"
-    url: /msi/projeto-integrador
-  - title: "Atividades Complementares"
-    url: /msi/atividades-complementares
-  - title: "Estágio Curricular"
-    url: /msi/estagio-curricular
-  - title: "TCC"
-    url: /msi/tcc
-  - title: "Calendário Acadêmico"
-    url: /msi/calendario
-  - title: "Horários"
-    url: /msi/horarios
-  - title: "Biblioteca"
-    url: http://siabi.ifb.edu.br/
-  - title: "Documentos"
-    url: /msi/documentos
+# msi:
+#   - title: "Apresentação"
+#     url: /msi/apresentacao
+#   - title: "Estrutura Curricular"
+#     url: /msi/curriculo
+#   - title: "Ementário"
+#     url: /msi/ementario
+#   - title: "Docentes"
+#     url: /msi/docentes
+#   - title: "Projeto Integrador"
+#     url: /msi/projeto-integrador
+#   - title: "Atividades Complementares"
+#     url: /msi/atividades-complementares
+#   - title: "Estágio Curricular"
+#     url: /msi/estagio-curricular
+#   - title: "TCC"
+#     url: /msi/tcc
+#   - title: "Calendário Acadêmico"
+#     url: /msi/calendario
+#   - title: "Horários"
+#     url: /msi/horarios
+#   - title: "Biblioteca"
+#     url: http://siabi.ifb.edu.br/
+#   - title: "Documentos"
+#     url: /msi/documentos
   

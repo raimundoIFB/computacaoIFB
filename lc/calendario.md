@@ -3,6 +3,6 @@ layout: single
 author_profile: false
 title: "Calendário Acadêmico"
 sidebar:
-    nav: "lc"
+    nav: "bcc"
 ---
-[Calendário Acadêmico 2019/2]({{ site.url }}/assets/lc/calendario-academico-2019-2)
+[Calendário Acadêmico 2019/2]({{ site.url }}/assets/abi/calendario-academico-2019-2.pdf)

@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: false
-title: "Atividades Complementares"
+title: "Estágio Curricular"
 sidebar:
     nav: "lc"
 ---

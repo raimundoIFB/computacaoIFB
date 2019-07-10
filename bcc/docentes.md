@@ -3,7 +3,7 @@ layout: single
 author_profile: false
 title: "Docentes Atuantes"
 sidebar:
-    nav: "lc"
+    nav: "bcc"
 ---
 
 | Nome | Currículo Lattes |

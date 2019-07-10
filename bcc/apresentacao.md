@@ -1,11 +1,9 @@
 ---
 layout: single
 author_profile: false
-title: "Bacharelado em Ciência da Computação"
+title: "Apresentação"
 sidebar:
     nav: "bcc"
 ---
 
-
-
-Oi
+{% include_relative apresentacao-text.md %}
