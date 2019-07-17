@@ -30,6 +30,8 @@ bcc:
     url: /bcc/horarios
   - title: "Documentos"
     url: /bcc/documentos
+  - title: "FAQ"
+    url: /bcc/faq
 lc:
   - title: "Apresentação"
     url: /lc/apresentacao
@@ -57,6 +59,8 @@ lc:
     url: http://siabi.ifb.edu.br/
   - title: "Documentos"
     url: /lc/documentos
+  - title: "FAQ"
+    url: /lc/faq
 # msi:
 #   - title: "Apresentação"
 #     url: /msi/apresentacao
