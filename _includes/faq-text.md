@@ -1,4 +1,7 @@
+**FAQ**
+* TOC
 {:toc}
+
 
 ## Como solicitar o aproveitamento de disciplinas?
 
