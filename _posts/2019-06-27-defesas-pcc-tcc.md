@@ -70,7 +70,7 @@ tags:
 
 - Categoria: PCC
 - Estudante(s): Rafael Araujo da Silva
-- Título:  *Proposta de Arquitetura Utilizando a Tecnologia Blockchain para a Saúde Pública*
+- Título:  *Investigação da Meta-heurística das Aranhas Sociais para o Problema da Cobertura de Vértices*
 - Data: 02/07/2019, terça-feira, às 15h20.
 - Local: Anfiteatro B1-08
 - Orientador(a): Daniel Saad Nogueira Nunes
