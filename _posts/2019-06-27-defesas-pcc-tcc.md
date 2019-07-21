@@ -34,6 +34,17 @@ tags:
 - Orientador(a): Leandro Vaguetti
 - Banca Examinadora: João Victor Araújo de Oliveira e José Gonçalo dos Santos
 
+
+-----
+
+- Categoria: TCC
+- Estudante(s): Matheus Carneiro Lino
+- Título:  *Estudo Comparativo de Características de Qualidade de Sofware Quando Implementados em Diferentes Arquiteturas, uma Monolítica e Outra Baseada em Microsserviços*
+- Data: 02/07/2019, terça-feira, às 10h30.
+- Local: SB1-03
+- Orientador(a): Leandro Vaguetti
+- Banca Examinadora: João Victor Araújo de Oliveira e José Gonçalo dos Santos
+
 -----
 
 - Categoria: PCC
