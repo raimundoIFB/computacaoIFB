@@ -27,7 +27,7 @@ tags:
 -----
 
 - Categoria: PCC
-- Aluno(a)(s): João Gabriel Meneses Pereira e Rodrigo de Oliveira Freire
+- Estudante(s): João Gabriel Meneses Pereira e Rodrigo de Oliveira Freire
 - Título:  *Estudo e Caracterização do Mapeamento de Projetos Orientados a Objetos para Bancos  de Dados NOSQL*
 - Data: 02/07/2019, terça-feira, às 9h30.
 - Local: SB1-03
