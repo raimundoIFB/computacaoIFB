@@ -8,4 +8,4 @@ sidebar:
 
 Os conteúdos curriculares estão divididos em Núcleo Básico e Núcleo Específico. A seguir está o ementário e referências bibliográficas das Componentes Curriculares do curso.
 
-- [Ementa e referências das componentes curriculares]({{site.url}}/assets/bcc/ementario.pdf) 
+- [Ementa e referências das componentes curriculares]{{site.baseurl}}/assets/bcc/ementario.pdf) 

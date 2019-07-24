@@ -16,7 +16,7 @@ O Trabalho de Conclusão de Curso deve ser cumprido pelo aluno, individualmente 
 
 
 ## Documentos: 
-- [Regulamento Interno para Elaboração do Trabalho de Conclusão de Curso - Bacharelado em Ciência da Computação]({{site.url}}/assets/bcc/regulamento-interno-tcc-bcc.pdf)
+- [Regulamento Interno para Elaboração do Trabalho de Conclusão de Curso - Bacharelado em Ciência da Computação]{{site.baseurl}}/assets/bcc/regulamento-interno-tcc-bcc.pdf)
 - [Modelo LaTeX](https://github.com/IFBmodels/tcc)
 ## Sugestão de linhas de pesquisa para TCC em Bacharelado em Ciência da Computação
 
