@@ -15,7 +15,7 @@ O Trabalho de Conclusão de Curso deve ser cumprido pelo aluno, individualmente 
 3. Propiciar aos estudantes o contato com os processos de investigação;
 
 ## Documentos: 
-- [Regulamento Interno para Elaboração do Trabalho de Conclusão de Curso - Licenciatura em Computação]{{site.baseurl}}/assets/lc/regulamento-interno-tcc-lc.pdf)
+- [Regulamento Interno para Elaboração do Trabalho de Conclusão de Curso - Licenciatura em Computação]({{site.baseurl}}/assets/lc/regulamento-interno-tcc-lc.pdf)
 - [Modelo LaTeX](https://github.com/IFBmodels/tcc)
 
 ## Sugestão de linhas de pesquisa para TCC em Licenciatura em Computação

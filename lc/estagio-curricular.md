@@ -26,5 +26,5 @@ O estágio curricular obrigatório do Curso de Licenciatura em Computação prev
 Obrigatoriamente a matricula nas disciplinas de estágio supervisionado está vinculada ao aluno estar ou ter cursado a disciplina de Planejamento e Organização da Ação Pedagógica.como montar loja virtual
 
 Documentos: 
-- [Manual de estágio curricular supervisionado]{{site.baseurl}}/assets/lc/manual-estagio-supervisionado.pdf)
-- [Orientações para realização do Estágio Supervisionado I]{{site.baseurl}}/assets/lc/orientacoes-realizacao-estagio-supervisionado-1.pdf)
+- [Manual de estágio curricular supervisionado]({{site.baseurl}}/assets/lc/manual-estagio-supervisionado.pdf)
+- [Orientações para realização do Estágio Supervisionado I]({{site.baseurl}}/assets/lc/orientacoes-realizacao-estagio-supervisionado-1.pdf)

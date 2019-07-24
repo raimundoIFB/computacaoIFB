@@ -34,4 +34,4 @@ As atividades complementares são aquelas que contemplam a participação (passi
 
 ## Matriz Curricular
 
-- [Estrutura curricular]{{site.baseurl}}/assets/bcc/estrutura-curricular.png)
+- [Estrutura curricular]({{site.baseurl}}/assets/bcc/estrutura-curricular.png)
