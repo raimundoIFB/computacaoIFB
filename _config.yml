@@ -19,8 +19,8 @@ title                    : "Computação IFB"
 title_separator          : "-"
 name                     : "Computação IFB"
 description              : "Portal dos cursos de Computação do IFB-Taguatinga."
-url                      : "https://danielsaad.com/computacao-ifb"
-# url: localhost:4000
+# url                      : "https://danielsaad.com/computacao-ifb"
+url: localhost:4000
 baseurl                  : # the subpath of your site, e.g. "/computacao-ifb"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -131,7 +131,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
-Site Footer
+# Site Footer
 footer:
   links:
     - label: "Twitter"
