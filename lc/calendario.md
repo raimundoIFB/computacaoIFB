@@ -3,7 +3,7 @@ layout: single
 author_profile: false
 title: "Calendário Acadêmico"
 sidebar:
-    nav: "bcc"
+    nav: "lc"
 ---
 
  {% include calendario-text.md %}
