@@ -1,15 +1,15 @@
 
-- **Portaria de reconhecimento**: portaria n° 578 de 09 de junho de 2017.
-- **Turno de oferta**: Integral (manhã e tarde).
-- **Modalidade**: Presencial.
-- **Habilitação**: Licenciado em Computação.
-- **Carga horária**: 3.218 horas.
-- **Duração**: 8 semestres.
-- **Ingresso**: No 1º Semestre Letivo de cada ano
-- **Sistema de Matrícula**: Por disciplina
-- **Estágio**: Obrigatório, realizado nos 4 últimos semestres, com 100 horas cada
-- **Coordenador**: Prof. João Victor de Araújo Oliveira
-  - Contato: joao.oliveira[at]ifb.edu.br
+- **Portaria de reconhecimento**: Portaria n° 578 de 09 de junho de 2017;
+- **Turno de oferta**: Integral (manhã e tarde);
+- **Modalidade**: Presencial;
+- **Habilitação**: Licenciado em Computação;
+- **Carga horária**: 3.218 horas;
+- **Duração**: 8 semestres;
+- **Ingresso**: No 1º Semestre Letivo de cada ano;
+- **Sistema de Matrícula**: Por disciplina;
+- **Estágio**: Obrigatório, realizado nos 4 últimos semestres, com 100 horas cada;
+- **Coordenador**: Prof. João Victor de Araújo Oliveira;
+  - Contato: joao.oliveira[at]ifb.edu.br.
 
 ## Apresentação 
 
