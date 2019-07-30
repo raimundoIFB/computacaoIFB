@@ -6,7 +6,7 @@
 - **Duração**: 8 semestres;
 - **Ingresso**: No 1º Semestre Letivo de cada ano;
 - **Sistema de Matrícula**: Por disciplina;
-- **Estágio**: Obrigatório, realizado nos 2 últimos semestres com carga horária total de 320 horas.
+- **Estágio**: Obrigatório, realizado nos 2 últimos semestres com carga horária total de 320 horas;
 - **Coordenador**: Prof. Daniel Saad Nogueira Nunes;
   - Contato: daniel.nunes[at]ifb.edu.br.
 
