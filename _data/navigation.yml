@@ -7,11 +7,9 @@ main:
     abbreviation: "LC"
     url: /lc/
   - title: "Técnico em Manutenção e Suporte em Informática"
-    abbreviagtion: "MSI"
+    abbreviation: "MSI"
     url: /msi/
-  # - title: "Técnico em Manutenção e Suporte em Informática"
-  #   abbreviation: "MSI"
-  #   url: /msi/
+
 bcc:
   - title: "Apresentação"
     url: /bcc/apresentacao
