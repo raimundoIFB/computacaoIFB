@@ -1,10 +1,10 @@
 ---
 layout: single
 author_profile: false
-title: "Bacharelado em Ciência da Computação"
+title: "Técnico em Manutenção e Suporte em Informática"
 sidebar:
-    nav: "bcc"
+    nav: "msi"
 ---
 
-
+Em construção.
 
