@@ -12,3 +12,5 @@ Foi definido em última reunião de colegiado dos cursos que as datas para entre
 
 - Pré-projetos: 19 de agosto de 2019 (segunda-feira).
 - PCCs e TCCs: 29 de novembro de 2019 (sexta-feira).
+
+Para realizar a submissão dos documentos, é necessário acessar a plataforma (Google Classroom)[https://classroom.google.com] e utilizar o código **5qwb7p** para obter acesso à sala de aula virtual que possui os campos para submissão destes documentos.
