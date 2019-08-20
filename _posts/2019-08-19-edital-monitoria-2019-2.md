@@ -1,6 +1,6 @@
 ---
-title: "Edital de Monitoria 2019/2"
-excerpt: "O edital de monitoria está aberto e segue com vagas remuneradas e voluntárias."
+title: "Eleição dos Representantes Discentes (BCC e LC)"
+excerpt: "O edital acerca da eleição dos representates discentes dos colegiados dos cursos de Bacharelado em Ciência da Computação e Licenciatura em Computação está aberto."
 author_profile: false
 categories:
   - avisos
