@@ -1,10 +1,11 @@
 ---
 title: 'Chamada para Trabalhos: IFTechDay'
-date: 2019-09-19 00:00:00 Z
-layout: post
-status: publish
-comments: true
 excerpt: 'Chamada para trabalhos do IFTechDay.'
+author_profile: false
+categories:
+  - avisos
+tags:
+  - avisos
 ---
 
 O IFB, *campus* Brasília irá organizar o IFTechDay nos dias 8 e 9 de outubro. Este é um evento voltado para a área de Computação repleto de oficinas, cursos e palestras.
