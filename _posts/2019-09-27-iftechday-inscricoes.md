@@ -16,5 +16,5 @@ Outros links:
 - [Instagram](https://www.instagram.com/iftech2019/)
 
 
-![IFTechDay2019]({{ assets/all/iftechday2019.jpg | prepend:site.baseurl | prepend:site.url }})
+![IFTechDay2019]({{site.baseurl | prepend: site.url }}/assets/all/iftechday2019.jpg)
 
