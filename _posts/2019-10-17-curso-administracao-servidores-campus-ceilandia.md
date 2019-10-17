@@ -1,5 +1,5 @@
 ---
-title: 'IFB/Ceilância: Curso de Administração Básica de Servidores Linux'
+title: 'IFB/Ceilândia: Curso de Administração Básica de Servidores Linux'
 excerpt: 'O curso de administração básica de servidores linux promovido pelo campus Ceilândia terá início no dia 25 de outubro.'
 author_profile: false
 categories:
@@ -9,7 +9,7 @@ tags:
 ---
 
 
-O Campus Ceilândia abre chamada pública para preenchimento de vagas para o curso "Administração Básica de Servidores Linux". Este é o terceiro curso ofertado pela equipe do Programa de Letramento Digital em Software Livre aprovado pelo edital 040/2018 RIFB e coordenado pelo Profº M.Sc Jocênio Marquios Epaminondas.
+O *campus* Ceilândia abre chamada pública para preenchimento de vagas para o curso "Administração Básica de Servidores Linux". Este é o terceiro curso ofertado pela equipe do Programa de Letramento Digital em Software Livre aprovado pelo edital 040/2018 RIFB e coordenado pelo Profº M.Sc Jocênio Marquios Epaminondas.
 
 Nele os participantes irão aprender a fazer a instalação e a configuração básica do principais serviços ofertados na WEB: servidor WEB, servidor FTP (Transferência de Arquivos), serviço de DHCP (servidor de Endereçamento de Internet Dinâmico), e o servidor de Proxy.
 
