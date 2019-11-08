@@ -12,7 +12,7 @@ Abaixo seguem os dados da defesa de PCC do aluno Matheus de Azevedo Feitosa Juca
 
 - Estudante(s): Matheus de Azevedo Feitosa Juca de Araújo
 - Título:  *Desenvolvimento de Protótipo para análise de dados abertos de gastos em saúde utilizando mineração de dados*
-- Data: 14/11/2019, quinta-feira, às 10h
+- Data: 14/11/2019, quinta-feira, às 15h30
 - Local: a ser anunciado
 - Orientador(a): Raimundo Claudio da Silva Vasconcelos 
 - Banca Examinadora: Fabiano Cavalcanti Fernandes e Thiago Batista Amorim.
