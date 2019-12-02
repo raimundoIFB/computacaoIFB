@@ -18,7 +18,7 @@ tags:
 - Orientador(a): Raimundo Claudio da Silva Vasconcelos 
 - Banca Examinadora: Fabiano Cavalcanti Fernandes e Thiago Batista Amorim.
 
-------
+---
 
 - Estudante(s): Rafael Padilha
 - Título:  *Protótipo para reconhecimento e classificação de padronagens de tecido utilizando aprendizado de máquina e câmera de smartphone*
@@ -27,7 +27,7 @@ tags:
 - Orientador(a): Raimundo Claudio da Silva Vasconcelos
 - Banca Examinadora: Fabiano Cavalcanti Fernandes e Lucas Paes Moreira
 
-------
+---
 
 - Estudante(s): Caio César Félix Caldeira
 - Título:  *Construção de um protótipo para reconhecimento de gestos na tradução da língua brasileira de sinais*
@@ -36,7 +36,7 @@ tags:
 - Orientador(a): Raimundo Claudio da Silva Vasconcelos
 - Banca Examinadora: Fabiano Cavalcanti Fernandes e Lucas Paes Moreira
 
-------
+---
 
 - Estudante(s): Flávia Dias Campos e Luana Gonzaga de Souza
 - Título:  *Estudo e avaliação de soluções para prototipação de progressive WEB APPs*
@@ -55,7 +55,7 @@ tags:
 - Orientador(a): Fabiano Cavalcanti Fernandes
 - Banca Examinadora: Luciane Modenez Saldivar Xavier e Raul Xavier Neto (Terascience)
 
-------
+---
 
 - Estudante(s): Carolina Ataíde de Assis
 - Título:  *Criação de um protótipo de banco de dados em grafos para estruturas secundárias de snoRNAs*
@@ -65,7 +65,7 @@ tags:
 - Banca Examinadora: Waldeyr Mendes Cordeiro da Silva (IFG-Formosa) e Luciane Modenez Saldivar Xavier
 
 
-------
+---
 
 - Estudante(s): Rafael Araujo Gomes da Silva
 - Título:  *Investigação da metaheurística das aranhas sociais para o problema da cobertura de vértices*
@@ -74,7 +74,7 @@ tags:
 - Orientador(a): Daniel Saad Nogueira Nunes
 - Banca Examinadora: Edson Alves da Costa Júnior (UnB/FGA) e  Fabiano Cavalcanti Fernandes
 
-------
+---
 
 - Estudante(s): Alan Cardoso Ferreira
 - Título:  *Projeto e implementação de consultas de ranqueamento e seleção em gramáticas baseadas em ordenação de sufixos por indução*
@@ -83,7 +83,7 @@ tags:
 - Orientador(a): Daniel Saad Nogueira Nunes
 - Banca Examinadora: Edson Alves da Costa Júnior (UnB/FGA) e  Fabiano Cavalcanti Fernandes
 
-------
+---
 
 - Estudante(s): Pedro Vinícius de Castro Boaron
 - Título:  *Estudo de Modelos e Implementações de Bancos de Dados em uma Arquitetura de  Microsserviços*
@@ -92,7 +92,7 @@ tags:
 - Orientador(a): Leandro Vaguetti
 - Banca Examinadora: João Victor Araújo de Oliveira e José Gonçalo dos Santos
 
-------
+---
 
 ## Licenciatura (PCC)
 
@@ -104,7 +104,7 @@ tags:
 - Coorientador(a): Thiago Batista Amorim
 - Banca Examinadora: Julie Kellen de Campos Borges (IFB-Brasília) e Raimundo Claudio da Silva Vasconcelos
 
-------
+---
 
 - Estudante(s): Jailson Brito
 - Título:  *Ensino de Computação na educação Básica: formação continuada de professores e interdisciplinaridade*
@@ -114,7 +114,7 @@ tags:
 - Coorientador(a): Thiago Batista Amorim
 - Banca Examinadora: Julie Kellen de Campos Borges (IFB-Brasília) e Raimundo Claudio da Silva Vasconcelos
 
-------
+---
 
 - Estudante(s): Luiz Eduardo Ximenes
 - Título:  *Programação orientada a objetos no ensino médio integrado: um estudo do ensino de linguagens de programação no Instituto Federal de Brasília*
