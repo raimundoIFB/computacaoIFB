@@ -53,7 +53,7 @@ tags:
 - Data: 06/12/2019 às 10h
 - Local: a ser anunciado
 - Orientador(a): Fabiano Cavalcanti Fernandes
-- Banca Examinadora: Luciane Modenez Saldivar Xavier e Raul Xavier Neto (Terascience)
+- Banca Examinadora: Luciane Modenez Saldivar Xavier e Raul Xavier Neto (Tera Science)
 
 ---
 
