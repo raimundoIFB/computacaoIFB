@@ -16,7 +16,7 @@ tags:
 - Data: 14/11/2019, quinta-feira, às 15h30
 - Local: a ser anunciado
 - Orientador(a): Raimundo Claudio da Silva Vasconcelos 
-- Banca Examinadora: Fabiano Cavalcanti Fernandes e Thiago Batista Amorim.
+- Banca Examinadora: Fabiano Cavalcanti Fernandes e Thiago Batista Amorim
 
 ---
 
