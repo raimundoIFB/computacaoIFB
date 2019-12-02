@@ -64,14 +64,6 @@ tags:
 - Orientador(a): João Victor de Araujo Oliveira
 - Banca Examinadora: Waldeyr Mendes Cordeiro da Silva (IFG-Formosa) e Luciane Modenez Saldivar Xavier
 
-------
-
-- Estudante(s): Pedro Vinícius de Castro Boaron
-- Título:  *Estudo de Modelos e Implementações de Bancos de Dados em uma Arquitetura de  Microsserviços*
-- Data: a ser anunciado
-- Local: a ser anunciado
-- Orientador(a): Leandro Vaguetti
-- Banca Examinadora: João Victor Araújo de Oliveira e José Gonçalo dos Santos
 
 ------
 
