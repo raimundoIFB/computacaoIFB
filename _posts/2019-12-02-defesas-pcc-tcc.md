@@ -62,7 +62,7 @@ tags:
 - Data: 11/12/2019 às 10h
 - Local: a ser anunciado
 - Orientador(a): João Victor de Araujo Oliveira
-- Banca Examinadora: Waldeyr Mendes Cordeiro da Silva (IFG-Formosa) e Luciane Modenez Saldivar Xavier
+- Banca Examinadora: Daniel da Silva Sousa (UnB) Luciane Modenez Saldivar Xavier
 
 
 ---
