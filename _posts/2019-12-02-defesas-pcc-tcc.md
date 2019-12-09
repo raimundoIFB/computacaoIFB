@@ -40,8 +40,8 @@ tags:
 
 - Estudante(s): Flávia Dias Campos e Luana Gonzaga de Souza
 - Título:  *Estudo e avaliação de soluções para prototipação de progressive WEB APPs*
-- Data: a ser anunciado
-- Local: a ser anunciado
+- Data: 12/12/2019 às 10h
+- Local: SB1-06
 - Orientador(a): Leandro Vaguetti
 - Banca Examinadora: João Victor Araújo de Oliveira e José Gonçalo dos Santos
 
@@ -49,7 +49,7 @@ tags:
 ## Bacharelado (TCC)
 
 - Estudante(s): Ana Clara Cedro Guimarães e Lucas Martins Mendes Vieira
-- Título:  *Proposta de arquitetura utilizando a tecnologia Blockchain para unidades básicas de saúde*
+- Título: *Proposta de arquitetura utilizando a tecnologia Blockchain para unidades básicas de saúde*
 - Data: 06/12/2019 às 10h
 - Local: a ser anunciado
 - Orientador(a): Fabiano Cavalcanti Fernandes
@@ -58,7 +58,7 @@ tags:
 ---
 
 - Estudante(s): Carolina Ataíde de Assis
-- Título:  *Criação de um protótipo de banco de dados em grafos para estruturas secundárias de snoRNAs*
+- Título: *Criação de um protótipo de banco de dados em grafos para estruturas secundárias de snoRNAs*
 - Data: 11/12/2019 às 10h
 - Local: a ser anunciado
 - Orientador(a): João Victor de Araujo Oliveira
@@ -67,12 +67,21 @@ tags:
 
 ---
 
+- Estudante(s): Pedro Vinícius de Castro Boaron
+- Título:  *Estudo de Modelos e Implementações de Bancos de Dados em uma Arquitetura de  Microsserviços*
+- Data: 12/12/2019 às 09h
+- Local: SB1-06
+- Orientador(a): Leandro Vaguetti
+- Banca Examinadora: João Victor Araújo de Oliveira e José Gonçalo dos Santos
+
+---
+
 - Estudante(s): Rafael Araujo Gomes da Silva
 - Título:  *Investigação da metaheurística das aranhas sociais para o problema da cobertura de vértices*
 - Data: 12/12/2019 às 14h00
 - Local: a ser anunciado
 - Orientador(a): Daniel Saad Nogueira Nunes
-- Banca Examinadora: Edson Alves da Costa Júnior (UnB/FGA) e  Fabiano Cavalcanti Fernandes
+- Banca Examinadora: Edson Alves da Costa Júnior (UnB/FGA) e Fabiano Cavalcanti Fernandes
 
 ---
 
@@ -81,25 +90,15 @@ tags:
 - Data: 12/12/2019 às 15h30
 - Local: a ser anunciado
 - Orientador(a): Daniel Saad Nogueira Nunes
-- Banca Examinadora: Edson Alves da Costa Júnior (UnB/FGA) e  Fabiano Cavalcanti Fernandes
+- Banca Examinadora: Edson Alves da Costa Júnior (UnB/FGA) e Fabiano Cavalcanti Fernandes
 
----
-
-- Estudante(s): Pedro Vinícius de Castro Boaron
-- Título:  *Estudo de Modelos e Implementações de Bancos de Dados em uma Arquitetura de  Microsserviços*
-- Data: a ser anunciado
-- Local: a ser anunciado
-- Orientador(a): Leandro Vaguetti
-- Banca Examinadora: João Victor Araújo de Oliveira e José Gonçalo dos Santos
-
----
 
 ## Licenciatura (PCC)
 
 - Estudante(s): Adriana de Fátima Martins
-- Título:  *Letramento digital: uma proposta de integração para o curso técnico integrado em eletromecânica*
+- Título: *Letramento digital: uma proposta de integração para o curso técnico integrado em eletromecânica*
 - Data: 10/12/2019 às 14h
-- Local: a ser anunciado
+- Local: Anfiteatro B1-09
 - Orientador(a): Veruska Ribeiro Machado
 - Coorientador(a): Thiago Batista Amorim
 - Banca Examinadora: Julie Kellen de Campos Borges (IFB-Brasília) e Raimundo Claudio da Silva Vasconcelos
@@ -107,9 +106,9 @@ tags:
 ---
 
 - Estudante(s): Jailson Brito
-- Título:  *Ensino de Computação na educação Básica: formação continuada de professores e interdisciplinaridade*
+- Título: *Ensino de Computação na educação Básica: formação continuada de professores e interdisciplinaridade*
 - Data: 12/12/2019 às 14h
-- Local: a ser anunciado
+- Local: Anfiteatro B1-08
 - Orientador(a): Veruska Ribeiro Machado
 - Coorientador(a): Thiago Batista Amorim
 - Banca Examinadora: Julie Kellen de Campos Borges (IFB-Brasília) e Raimundo Claudio da Silva Vasconcelos
@@ -117,18 +116,18 @@ tags:
 ---
 
 - Estudante(s): Luiz Eduardo Ximenes
-- Título:  *Programação orientada a objetos no ensino médio integrado: um estudo do ensino de linguagens de programação no Instituto Federal de Brasília*
+- Título: *Programação orientada a objetos no ensino médio integrado: um estudo do ensino de linguagens de programação no Instituto Federal de Brasília*
 - Data: 13/12/2019 às 14h
 - Local: a ser anunciado
 - Orientador(a): Veruska Ribeiro Machado
-- Banca Examinadora: Lucas Paes Moreira e  Thiago Batista Amorim
+- Banca Examinadora: Lucas Paes Moreira e Thiago Batista Amorim
 
 ## Licenciatura (TCC)
 
 
 - Estudante(s): Francisco Filipe Gonçalves Beleza
-- Título:  *Integração de tecnologias digitais de Informação e Comunicação na educação de surdos: uma proposta de sequência didática para a educação superior*
+- Título: *Integração de tecnologias digitais de Informação e Comunicação na educação de surdos: uma proposta de sequência didática para a educação superior*
 - Data: 12/12/2019 às 15h30h
-- Local: a ser anunciado
+- Local: Anfiteatro B1-08
 - Orientador(a): Veruska Ribeiro Machado
 - Banca Examinadora: Sylvana Karla da Silva de Lemos Santos (IFB-Brasília) e Thiago Batista Amorim
