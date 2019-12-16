@@ -35,7 +35,6 @@ As coordenações de Bacharelado em Ciência da Computação e Licenciatura em C
 - **Professor(a):** Daniel Saad Nogueira Nunes;
 - **Ementa:** Estruturas de dados e bibliotecas; Paradigmas de projetos de algoritmos; Algoritmos em grafos; Algoritmos matemáticos; Processamento de palavras; Geometria Computacional; Tópicos Avançados em Algoritmos.
 
-------
 
 ## Licenciatura
 
@@ -44,6 +43,7 @@ As coordenações de Bacharelado em Ciência da Computação e Licenciatura em C
 - **Professor(a):** Roberto Duarte Fontes;
 - **Ementa:** Estudo sobre o conceito de pensamento computacional, suas definições, habilidades, competências e as principais metodologias para sua promoção e desenvolvimento, bem como a exploração dos quatros principais conceitos do pensamento computacional: abstração, algoritmos e procedimentos, generalização e reconhecimento de padrões; Ferramentas plugadas e desplugadas para o Ensino do Pensamento Computacional; Modelos de comunicação interativos-colaborativos pela interconexão entre dispositivos de comunicação digital; Plataformas de apoio ao ensino do raciocínio computacional; Projetos com apoio de computação.
 
+-----
 
 - **Nome da disciplina:** a ser anunciado;
 - **Professor(a):** Thiago Batista Amorim;
