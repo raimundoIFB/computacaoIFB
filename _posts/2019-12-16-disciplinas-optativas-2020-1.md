@@ -14,11 +14,12 @@ As coordenações de Bacharelado em Ciência da Computação e Licenciatura em C
 
 - **Nome da disciplina:** Desenvolvimento de Progressive Web Apps (PWA);
 - **Professor(a):** Leandro Vaguetti.
+- **Ementa:** a ser anunciada.
 
 ------ 
 
-- **Nome da disciplina:** Programação para dispositivos móveis.
-- **Professor(a):** José Gonçalo dos Santos.
+- **Nome da disciplina:** Programação para dispositivos móveis;
+- **Professor(a):** José Gonçalo dos Santos;
 - **Ementa:** Preparação do ambiente de desenvolvimento Android; Tecnologias de dispositivos móveis; Introdução ao Android; Componentes visuais básicos da plataforma Android; Tratamento de eventos de componentes visuais; Persistência de dados; Tópicos avançados em Android.
 
 -----
@@ -45,6 +46,6 @@ As coordenações de Bacharelado em Ciência da Computação e Licenciatura em C
 
 -----
 
-- **Nome da disciplina:** a ser anunciado;
+- **Nome da disciplina:** Tópicos no ensino de computação na educação básica;
 - **Professor(a):** Thiago Batista Amorim;
-- **Ementa:**: a ser anunciada.
+- **Ementa:** Diretrizes para ensino de Computação na Educação Básica. Eixos da computação do ensino na educação básica (Pensamento Computacional, Mundo Digital, Cultura Digital). Competências e Habilidades do ensino de computação na educação básica e BNCC. Ensino de computação no ensino fundamental e no ensino médio. Itinerário Formativo no ensino de Computação proposto pela SBC. Análise e discussão de iniciativas no ensino de computação na educação básica. Análise e discussão de plataformas de ensino de computação. Computação Desplugada. Robótica educacional utilizando Arduino. Metodologias Ativas (Aprendizagem baseada em problemas e Aprendizagem baseada em projetos). Elaboração/Aplicação de oficinas.
