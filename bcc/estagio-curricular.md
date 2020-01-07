@@ -25,8 +25,9 @@ Visando inserir o estágio como um dos princípios norteadores da articulação 
 - [Formulário de inscrição no estágio supervisionado]({{site.baseurl | prepend: site.url }}/assets/bcc/estagio/formulario-de-inscricao-no-estagio-supervisionado.pdf)
 - [Plano de atividades]({{site.baseurl | prepend: site.url }}/assets/bcc/estagio/plano-de-atividades.pdf)
 - [Ficha de avaliação do estágio pelo estudante]({{site.baseurl | prepend: site.url }}/assets/bcc/estagio/ficha-avaliacao-estagio-pelo-estudante.pdf)
+- [Ficha de avaliação do estudante pela empresa]({{site.baseurl | prepend: site.url }}/assets/bcc/estagio/ficha-avaliacao-estudante-pela-empresa.pdf)
 - [Formulário de frequência do estudante]({{site.baseurl | prepend: site.url }}/assets/bcc/estagio/formulario-de-frequencia-diaria-do-estudante-na-instituicao-concedente.pdf);
 - [Relatório final de estágio]({{site.baseurl | prepend: site.url }}/assets/bcc/estagio/relatorio-final-de-estagio.doc)
-- [Passo a passo para a obtenção do estágio](https://www.ifb.edu.br/attachments/article/10658/Passo%20a%20passo%20obten%C3%A7%C3%A3o%20do%20Est%C3%A1gio.pdf)
-- [Passo a passo para os procedimentos do estágio](https://www.ifb.edu.br/attachments/article/10658/Passo%20a%20passo%20procedimentos%20de%20Est%C3%A1gio.pdf)
+- [Passo a passo para a obtenção do estágio]({{site.baseurl | prepend: site.url }}/assets/bcc/estagio/passo-a-passo-obtencao-estagio.pdf)
+- [Passo a passo para os procedimentos do estágio]({{site.baseurl | prepend: site.url }}/assets/bcc/estagio/passo-a-passo-procedimentos-de-estagio.pdf)
 - [Declaração de estágio para as datas de avaliação do IFB]({{site.baseurl | prepend: site.url }}/assets/bcc/estagio/declaracao-de-estagio-para-as-datas-de-avaliacao.pdf)
