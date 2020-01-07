@@ -20,5 +20,10 @@ De acordo com a Lei n° 11.788 de 25 de setembro de 2008:
 Visando inserir o estágio como um dos princípios norteadores da articulação teórico-prática do curso de Bacharelado em Ciência da Computação, os graduandos devem cumprir uma carga horária obrigatória de *Estágio Supervisionado* de 200 horas divididas em dois semestres.
 
 ## Documentos: 
-- [Manual de estágio curricular supervisionado]()
-- [Orientações para realização do Estágio Supervisionado I]()
+
+- [Formulário de inscrição no estágio supervisionado](assets/bcc/estagio/formulario-de-inscricao-no-estagio-supervisionado.pdf);
+- [Plano de atividades](assets/bcc/estagio/formulario-de-inscricao-no-estagio-supervisionado.pdf);
+- [Ficha de avaliação do estágio pelo estudante](assets/bcc/estagio/ficha-avaliacao-estagio-pelo-estudante.pdf);
+- [Plano de atividades](assets/bcc/estagio/formulario-de-inscricao-no-estagio-supervisionado.pdf);
+- [Formulário de frequência do estudante](assets/bcc/estagio/formulario-de-frequencia-diaria-do-estudante-na-instituicao-concedente.pdf);
+- [Relatório final de estágio](assets/bcc/estagio/relatorio-final-de-estagio.doc).
