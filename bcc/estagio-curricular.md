@@ -29,3 +29,4 @@ Visando inserir o estágio como um dos princípios norteadores da articulação 
 - [Relatório final de estágio]({{site.baseurl | prepend: site.url }}/assets/bcc/estagio/relatorio-final-de-estagio.doc)
 - [Passo a passo para a obtenção do estágio](https://www.ifb.edu.br/attachments/article/10658/Passo%20a%20passo%20obten%C3%A7%C3%A3o%20do%20Est%C3%A1gio.pdf)
 - [Passo a passo para os procedimentos do estágio](https://www.ifb.edu.br/attachments/article/10658/Passo%20a%20passo%20procedimentos%20de%20Est%C3%A1gio.pdf)
+- [Declaração de estágio para as datas de avaliação do IFB]({{site.baseurl | prepend: site.url }}/assets/bcc/estagio/declaracao-de-estagio-para-as-datas-de-avaliacao.pdf)
