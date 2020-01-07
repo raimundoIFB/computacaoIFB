@@ -22,7 +22,7 @@ Visando inserir o estágio como um dos princípios norteadores da articulação 
 ## Documentos: 
 
 - [Formulário de inscrição no estágio supervisionado]({{site.baseurl | prepend: site.url }}/assets/bcc/estagio/formulario-de-inscricao-no-estagio-supervisionado.pdf);
-- [Plano de atividades]({{site.baseurl | prepend: site.url }}/assets/bcc/estagio/formulario-de-inscricao-no-estagio-supervisionado.pdf);
+- [Plano de atividades]({{site.baseurl | prepend: site.url }}/assets/bcc/estagio/plano-de-atividades.pdf);
 - [Ficha de avaliação do estágio pelo estudante]({{site.baseurl | prepend: site.url }}/assets/bcc/estagio/ficha-avaliacao-estagio-pelo-estudante.pdf);
 - [Plano de atividades]({{site.baseurl | prepend: site.url }}/assets/bcc/estagio/formulario-de-inscricao-no-estagio-supervisionado.pdf);
 - [Formulário de frequência do estudante]({{site.baseurl | prepend: site.url }}/assets/bcc/estagio/formulario-de-frequencia-diaria-do-estudante-na-instituicao-concedente.pdf);
