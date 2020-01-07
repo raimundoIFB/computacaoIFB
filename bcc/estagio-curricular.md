@@ -17,7 +17,7 @@ De acordo com a Lei n° 11.788 de 25 de setembro de 2008:
 - Proporcionar ao discente a capacidade de desenvolver as habilidades geradas no decorrer do processo de ensino-aprendizagem.
 - Proporcionar ao professor orientador o retorno do processo de ensino-aprendizagem através do aluno supervisionado.
 
-Visando inserir o estágio como um dos princípios norteadores da articulação teórico-prática do curso de Bacharelado em Ciência da Computação, os graduandos devem cumprir uma carga horária obrigatória de *Estágio Supervisionado* de 200 horas divididas em dois semestres.
+Visando inserir o estágio como um dos princípios norteadores da articulação teórico-prática do curso de Bacharelado em Ciência da Computação, os graduandos devem cumprir uma carga horária obrigatória de *Estágio Supervisionado* de 320 horas divididas em dois semestres.
 
 ## Documentos
 
