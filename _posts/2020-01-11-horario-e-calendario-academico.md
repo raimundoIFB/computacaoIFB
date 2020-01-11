@@ -12,5 +12,5 @@ Estão disponíveis para acesso o calendário acadêmico e grade horária para o
 
 
 - [Calendário Acadêmico (Superior) 2020/1]({{ site.baseurl | prepend: site.url }}/assets/abi/calendario-academico-2020-1.pdf)
-- [Calendário Acadêmico (Subseaquente) 2020/1]({{ site.baseurl | prepend: site.url }}/assets/msi/calendario-academico-2020-1.pdf)
+- [Calendário Acadêmico (Subsequente) 2020/1]({{ site.baseurl | prepend: site.url }}/assets/msi/calendario-academico-2020-1.pdf)
 - [Grade Horária 2020/1]({{site.baseurl | prepend: site.url }}/assets/all/horarios-2020-1.pdf)
