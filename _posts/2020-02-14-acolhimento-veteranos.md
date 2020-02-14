@@ -1,5 +1,5 @@
 ---
-title: 'Acolhimento dos Alunos não calouros'
+title: 'Acolhimento dos alunos não calouros'
 excerpt: 'Convidamos todos os alunos que não estejam enquadrados no primeiro semestre para uma reunião à ocorrer no dia 19 de fevereiro, às 10h, no auditório do campus Taguatinga.'
 author_profile: false
 categories:
