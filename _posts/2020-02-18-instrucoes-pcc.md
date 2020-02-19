@@ -12,3 +12,5 @@ Os alunos de Bacharelado em Ciência da Computação ou Licenciatura em Computa�
 
 Para acessar esta plataforma, basta criar uma conta em www.edmodo.com e inserir o código `jnnr55` da sala de aula virtual.
 Uma vez na sala de aula virtual, será possível enviar o pré-projeto através de uma tarefa.
+
+O modelo LaTeX do pré-projeto está disponível em: https://github.com/IFBmodels/pre-projeto
