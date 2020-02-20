@@ -42,4 +42,17 @@ O Trabalho de Conclusão de Curso deve ser cumprido pelo aluno, individualmente 
 
 ## Orientadores de TCC e Áreas de Interesse
 
-Procurar a coordenação para orientações.
+
+
+|             Docentes            |                                                                      Linhas de Pesquisa e Projetos                                                                      |
+|:-------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Daniel Saad Nogueira Nunes      | Compressão de dados e indexação; Estruturas de Dados Compactas;  Algoritmos para Biologia Computacional; Algoritmos aproximados e heurísticos.                          |
+| Dhiego Loiola de Araújo         | Utilização de Metaheurísticas; Algoritmos Evolucionários; Modelagem Matemática; Métodos Numéricos.                                                                      |
+| Fernanda Bezerra Mateus Martins | Formação docente; Currículo e avaliação.                                                                                                                                |
+| Fabiano Cavalcanti Fernandes    | Blockchain; Machine Learning; Chat bots; Detecção de Câncer de Mama; Bioinformática; Biosensores; Segurança Computacional; Jogos; Learning Analytics.                   |
+| João Victor de Araujo Oliveira  | Bioinformática e Aprendizagem de Máquina; Inteligência Artificial; Desenvolvimento WEB/Mobile; Programação de alto desempenho; Mineração de Dados; Computação Paralela. |
+| Lucas Paes Moreira              | Inteligência artificial; Deep Learning; Implementação de algoritmos evolutivos em sistemas embarcados distribuídos; Processamento de Sinais;                            |
+| Luciane Modenez Saldivar Xavier | Biologia Computacional e Bioinformática.                                                                                                                                |
+
+
+Demais docentes: procurar a coordenação para orientações.
