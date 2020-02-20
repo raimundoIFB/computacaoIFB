@@ -1,5 +1,5 @@
 ---
-title: 'Informe sobre as aula de Redes de Computadores'
+title: 'Informe sobre as aulas de Redes de Computadores'
 excerpt: 'As aulas de Redes de Computadores ocorrerão regularmente a partir do dia 29 de fevereiro.'
 author_profile: false
 categories:
