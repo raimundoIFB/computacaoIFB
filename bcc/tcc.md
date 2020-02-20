@@ -44,7 +44,7 @@ O Trabalho de Conclusão de Curso deve ser cumprido pelo aluno, individualmente 
 
 
 
-|             Docentes            |                                                                      Linhas de Pesquisa e Projetos                                                                      |
+|             Docente            |                                                                      Linhas de Pesquisa e Projetos                                                                      |
 |:-------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | Daniel Saad Nogueira Nunes      | Compressão de dados e indexação; Estruturas de Dados Compactas;  Algoritmos para Biologia Computacional; Algoritmos aproximados e heurísticos.                          |
 | Dhiego Loiola de Araújo         | Utilização de Metaheurísticas; Algoritmos Evolucionários; Modelagem Matemática; Métodos Numéricos.                                                                      |
