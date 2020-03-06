@@ -8,7 +8,7 @@ tags:
   - avisos
 ---
 
-Prezados, informamos que o horário de atendimento presencial da Coordenação de Licenciatura em Computação neste primeiro semestre de 20202 foi alterado para as sextas-feiras, das 14h00 às 16h00.
+Prezados, informamos que o horário de atendimento presencial da Coordenação de Licenciatura em Computação neste primeiro semestre de 2020 foi alterado para as sextas-feiras, das 14h00 às 16h00.
 
 Caso seja necessário um atendimento em outro horário, envie um email ao coordenador do curso.
 
