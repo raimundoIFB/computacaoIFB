@@ -1,5 +1,5 @@
 ---
-title: "horario de atendimento coordenacao Licenciatura "
+title: "Horário de atendimento da Coordenação em Licenciatura da Computação"
 excerpt: "Mudança de horário de atendimento da Coordenação de Licenciatura em Computação"
 author_profile: false
 categories:
