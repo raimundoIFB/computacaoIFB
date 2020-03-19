@@ -40,4 +40,4 @@ As coordenações dos cursos superiores de Computação informam que os pré-pro
 
 | Aluno(s)                  | Título                                                                                   | Orientador(es)                               |
 |---------------------------|------------------------------------------------------------------------------------------|----------------------------------------------|
-| Laureane Pereira de Sousa | Robótica como objeto de ensino para uma aprendizagem interdisciplinar e contextualizada. | Veruska Ribeiro Machado e Lucas Paes Moreira |
+| Laureane Pereira de Sousa | Robótica como objeto de ensino para uma aprendizagem interdisciplinar e contextualizada | Veruska Ribeiro Machado e Lucas Paes Moreira |
