@@ -8,7 +8,9 @@ tags:
   - avisos
 ---
 
-As coordenações dos cursos superiores de Computação informam que os pré-projetos foram apreciados. Abaixo segue a lista dos projetos deferidos. Os alunos que tiveram seu projeto deferido terão sua matrícula efetivada na componente curricular **Projeto de Conclusão de Curso**.
+As coordenações dos cursos superiores de Computação informam que os pré-projetos foram analisados bem como a situação de cada aluno proponente no quesito integralização do curso. A lista dos projetos deferidos e alunos a serem matriculados na componente curricular **Projeto de Conclusão de Curso** está abaixo.
+
+
 
 
 ### Bacharelado
@@ -17,10 +19,10 @@ As coordenações dos cursos superiores de Computação informam que os pré-pro
 | Aluno(s)                                                   | Título                                                                                                                     | Orientador(es)                        |
 |------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
 | Alexandre Teixeira de Oliveira                             | Desenvolvimennto de Chatbot Aplicado ao Atendimento na Saúde Pública                                                       | Fabiano Cavalcanti Fernandes          |
-| Bruno Faustino Cecilio da Silva eRafael Job Pereira        | Utilização da Tecnologia Blockchain na Realização de Votações                                                              | Fabiano Cavalcanti Fernandes          |
+| Bruno Faustino Cecilio da Silva e Rafael Job Pereira        | Utilização da Tecnologia Blockchain na Realização de Votações                                                              | Fabiano Cavalcanti Fernandes          |
 | Carlos Eduardo Pereira Santana                             | Estudo de Framework JavaScript Moderno (Ecossistema REACT) para o desenvolvimento de LPS (Linhas de Produtos de Software)  | Leandro Vaguetti                      |
 | Danilo Freire Holanda de Paiva                             | Estudo sobre aplicabilidade de métricas UX no desenvolvimento de um aplicativo para Unidade Basica de Saúde                | Fabiano Cavalcanti Fernandes          |
-| Einstein Ramos de Almeida eLucas Linhares Dias             | Uso de Business Intelligence na tomada de decisão para contratações de jogadores no futebol brasileiro                     | João Victor de Araujo Oliveira        |
+| Einstein Ramos de Almeida e Lucas Linhares Dias             | Uso de Business Intelligence na tomada de decisão para contratações de jogadores no futebol brasileiro                     | João Victor de Araujo Oliveira        |
 | Eloy Oliveira Guimaraes                                    | Construção de um protótipo de mapeamento georreferenciado de áreas de descarte de resíduos do Distrito Federal             | Raimundo Claudio da Silva Vasconcelos |
 | Felipe Pinto e Mateus Costa                                | Estudo e Análise do modelo PWA e seu paradigma de desenvolvimento                                                          | Leandro Vaguetti                      |
 | Francisco Lucas Paz Vieira                                 | Proof of Concept de um Sistema de Prontuário Eletrônico baseado em Blockchain                                              | Fabiano Cavalcanti Fernandes          |
