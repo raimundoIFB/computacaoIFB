@@ -32,7 +32,7 @@ As coordenações dos cursos superiores de Computação informam que os pré-pro
 | Jerônimo Hermano Neves Cunha                               | Utilização de Neural Style Transfer para Personalizção de Modelos Digitais                                                 | Lucas Paes Pereira Suzana Curi Guerra |
 | Leonardo Santos da Silva                                   | Uso de Mineração de Dados e Análise de Sentimentos para Predição do Movimento dos Mercados de Ações na Bolsa de Valores    | Roberto Duarte Fontes                 |
 | Leonardo Soares Bastos                                     | Abordagem de Mixed Reality, a partir de um Framework baseado em JavaScript/REACT, aplicada a Jogos Digitais                | Leandro Vaguetti                      |
-| Mateus Santos Costa                                        | Controle Local de Fármacos Para Hospitais e Auxílio de Criacão e Utilização de Receitas                                    | Fabiano Cavalcanti Fernandes          |
+| Guilherme Vieira do Nascimento e Mateus Santos Costa                                        | Controle Local de Fármacos Para Hospitais e Auxílio de Criacão e Utilização de Receitas                                    | Fabiano Cavalcanti Fernandes          |
 | Wanderson Ramos dos Santos                                 | Detecção de Spam no twitter através de técnicas de aprendizado de máquina                                                  | João Victor de Araujo Oliveira        |
 | Wilton Lucas Pires Gomes                                   | Estabilidade e Plasticidade das Redes Neurais da Família ART: Um Estudo de Caso Para Classificação Processual              | José Gonçalo dos Santos               |
 
