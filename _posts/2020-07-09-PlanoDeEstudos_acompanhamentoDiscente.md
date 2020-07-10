@@ -1,6 +1,6 @@
 ---
-title: "Pesquisa com alunos sobre as condições de retorno do período letivo" 
-excerpt: "Pesquisa com alunos sobre as condições de retorno do período letivo"
+title: "Plano de estudos e acompanhamento discente - volta do calendário acadêmico" 
+excerpt: "Plano de estudos e acompanhamento discente - volta do calendário acadêmico"
 author_profile: false
 categories:
   - avisos
