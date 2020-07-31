@@ -1,6 +1,6 @@
 ---
-title: "Informações da aula de acolhimento na retomada das atividades letivas" 
-excerpt: "Informe sobre os métodos para contato com os docentes na aula de acolhimento na retomada das atividades letivas."
+title: "Informações das aulas de acolhimento na retomada das atividades letivas" 
+excerpt: "Informe sobre os métodos para contato com os docentes nas aulas de acolhimento na retomada das atividades letivas."
 author_profile: false
 categories:
   - avisos
