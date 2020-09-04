@@ -8,7 +8,5 @@ tags:
   - avisos
 ---
 
-
-<img src = "img/PCC-Laureane.png" style="width: 50%">
-
+<img src="{{ site.url }}{{ site.baseurl }}/img/PCC-Laureane.png" alt="">
 
