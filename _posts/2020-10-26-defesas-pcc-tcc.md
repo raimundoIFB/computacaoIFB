@@ -14,4 +14,4 @@ Abaixo seguem os cronogramas de defesas de PCC e TCC dos cursos superiores de Co
 - [Bacharelado em Ciência da Computação]({{site.baseurl | prepend: site.url }}/assets/abi/defesas-2020-1/bcc.pdf)
 - [Licenciatura em Computação]({{site.baseurl | prepend: site.url }}/assets/abi/defesas-2020-1/lc.pdf)
 
-**Atualizado em 26/10/2020 às 12h.**
+**Atualizado em 26/10/2020 às 22h.**
