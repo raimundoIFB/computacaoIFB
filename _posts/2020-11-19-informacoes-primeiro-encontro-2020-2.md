@@ -1,6 +1,6 @@
 ---
-title: "Informações do Primeiro Encontro das disciplinas: 2020/2" 
-excerpt: "Informações das disciplinas relativas ao primeiro contato com as turmas."
+title: "Informações do primeiro encontro das disciplinas: 2020/2" 
+excerpt: "Informações das disciplinas  no que tange ao primeiro contato com as turmas."
 author_profile: false
 categories:
   - avisos
