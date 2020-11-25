@@ -66,7 +66,7 @@ Ressaltamos que a próxima aula, do dia 01 de dezembro, também será conjunta e
 
 ### Turma A (Prof. Roberto Duarte Fontes)
 
-- [Ambiente Virtual]()
+- [Ambiente Virtual (criar conta no moodle)](fontes.pro.br)
 - [Canal de comunicação]()
 
 ### Turma B (Prof. Daniel Saad Nogueira Nunes)
