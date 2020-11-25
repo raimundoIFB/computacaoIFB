@@ -12,49 +12,48 @@ tags:
 Comunicamos que as turmas da disciplina de Programação de Computadores 1 foram divididas como abaixo. Ressalta-se que as alterações de turma não serão permitidas.
 
 **Turma A: Prof. Roberto Duarte fontes**
-Arthur Wallace SIlva Lopes
-Matheus Nilo Santiago
-PEDRO DANIEL BOMTEMPO MEDEIROS
-Andressa Nunes Esteves
-victor dias carvalho
-Reidner Sousa dos santos
-Josué Felipe Vieira Klich
-Bianca Simas Wolfgran
-Reidner Sousa dos  Santos
-Luciana de Vasconcelos Rosa
-Miguel Angelo Lima Antunes
-JAIED DOS SANTOS PIRES
-Diego José da Silva
-Humberto Silva Teles Farrapo
-MATHEUS MARQUES DE CASTRO
-Danilo Freire Holanda de Paiva
-Rodrigo Fillipe Morais Pereira
-Lucas victor dias palmeira
-Matheus Nilo Santiago
-Fabrício Bohle dos Santos Filho
+
+- Arthur Wallace SIlva Lopes
+- Matheus Nilo Santiago
+- PEDRO DANIEL BOMTEMPO MEDEIROS
+- Andressa Nunes Esteves
+- victor dias carvalho
+- Reidner Sousa dos santos
+- Josué Felipe Vieira Klich
+- Bianca Simas Wolfgran
+- Reidner Sousa dos  Santos
+- Luciana de Vasconcelos Rosa
+- Miguel Angelo Lima Antunes
+- JAIED DOS SANTOS PIRES
+- Diego José da Silva
+- Humberto Silva Teles Farrapo
+- MATHEUS MARQUES DE CASTRO
+- Danilo Freire Holanda de Paiva
+- Rodrigo Fillipe Morais Pereira
+- Lucas victor dias palmeira
+- Fabrício Bohle dos Santos Filho
 
 **Turma B: Prof Daniel Saad Nogueira Nunes**
-
-Chrystian Gabriel Lima de Carvalho
-Emerson Carlos Alves Souza
-Lucas Rodrigues Lopes
-Ruan Gonçalves Nunes
-Jonatas Santos Pessoa
-Maxwell Oliveira Dos Reis
-Lucas Rodrigues Vasconcelos
-Arthur Carlos Neuhauss
-Luan Quintanilha Nunes
-INGRID CRISTINA PEREIRA DA SILVA
-Matheus Teixeira de Oliveira
-ÁDRIAN KEVEN DE CARVALHO FERNANDES
-João Marcos Nunes
-Lucas Leão Vieira de Albuquerque
-Cibely Araujo e Silva
-CÉSAR TALLYS HENRIQUE DUARTE
-Jacksson Yuri de Amorim Wasterloô
-Alan Rodrigues dos Santos
-Enddryo Winddson Saraiva Dias
-
+ 
+- Chrystian Gabriel Lima de Carvalho
+- Emerson Carlos Alves Souza
+- Lucas Rodrigues Lopes
+- Ruan Gonçalves Nunes
+- Jonatas Santos Pessoa
+- Maxwell Oliveira Dos Reis
+- Lucas Rodrigues Vasconcelos
+- Arthur Carlos Neuhauss
+- Luan Quintanilha Nunes
+- INGRID CRISTINA PEREIRA DA SILVA
+- Matheus Teixeira de Oliveira
+- ÁDRIAN KEVEN DE CARVALHO FERNANDES
+- João Marcos Nunes
+- Lucas Leão Vieira de Albuquerque
+- Cibely Araujo e Silva
+- CÉSAR TALLYS HENRIQUE DUARTE
+- Jacksson Yuri de Amorim Wasterloô
+- Alan Rodrigues dos Santos
+- Enddryo Winddson Saraiva Dias
 
 
 ## Aula Inaugural
