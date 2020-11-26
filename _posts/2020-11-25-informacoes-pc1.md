@@ -72,4 +72,4 @@ Ressaltamos que a próxima aula, do dia 01 de dezembro, também será conjunta e
 ### Turma B (Prof. Daniel Saad Nogueira Nunes)
 
 - [Ambiente Virtual](https://classroom.google.com/c/MjMyNTc1NTY5OTQ1?cjc=pxn2lxm)
-- [Canal de comunicação](meet.google.com/hij-vvsa-hep)
+- [Canal de comunicação](https://meet.google.com/hij-vvsa-hep)
