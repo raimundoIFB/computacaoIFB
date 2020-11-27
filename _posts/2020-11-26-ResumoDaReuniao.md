@@ -14,7 +14,7 @@ A seguir são descritas as principais informações levantadas na reunião com o
 
 - Datas importantes 
     - Trancamento de Disciplinas: 11/12/2020;
-    - Ajustes de Disciplinas: 04/12/2020 (será enviado posteriormente um link para o formulário de ajustes);
+    - Ajustes de Disciplinas: 03/12/2020 (a data foi atualizada posteriormente à Reunião);
     - Pré-projetos de TCC:  14/12/2020;
      - Recesso de final de ano: 24/12/2020 - 03/01/2021;
     - Envio do texto de PCC ou TCC: 15/03/2021;
