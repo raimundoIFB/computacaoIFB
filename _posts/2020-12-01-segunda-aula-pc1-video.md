@@ -10,4 +10,4 @@ tags:
 
 A segunda aula das turmas A e B da disciplina de Programação de Computadores 1 das turmas está disponível no seguinte [link](https://drive.google.com/file/d/1dkOQfY93rGcIqG7ycqmu8f_IQOCWjpc_/view?usp=sharing).
 
-Nas próximas aulas, cada aluno deverá se direcionar a sua turma, conforme explicado nesta [publicação]({% post_url 2020-11-25-informacoes-pc1 %}).  
+Nas próximas aulas, cada aluno deverá se direcionar a sua turma, conforme explicado nas aulas e nesta [publicação]({% post_url 2020-11-25-informacoes-pc1 %}).  
