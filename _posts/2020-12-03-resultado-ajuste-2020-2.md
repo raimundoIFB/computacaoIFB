@@ -1,6 +1,6 @@
 ---
 title: 'Ajuste de Matrículas 2020/2: Resultado'
-excerpt: 'Resultado do ajuste de matrículas 2020/2'
+excerpt: 'Resultado do ajuste de matrículas 2020/2.'
 author_profile: false
 categories:
   - avisos
