@@ -18,7 +18,7 @@ Seguem algumas orientações de antemão sobre o uso dos laboratórios de Inform
 
  - [Procedimento Operacional Padrão para a reserva de laboratório]({{site.baseurl | prepend: site.url }}/assets/all/POP_Reserva_Informatica.pdf).
 
- - Procedimento Operacional Padrão para acesso ao Campus]({{site.baseurl | prepend: site.url }}/assets/all/POP_Acesso_ao_Campus.pdf)
+ - [Procedimento Operacional Padrão para acesso ao Campus]({{site.baseurl | prepend: site.url }}/assets/all/POP_Acesso_ao_Campus.pdf).
 
 
  Contamos com sua participação!
