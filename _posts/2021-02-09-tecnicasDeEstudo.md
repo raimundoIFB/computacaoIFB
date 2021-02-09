@@ -1,6 +1,6 @@
 ---
 title: "Oficina sobre Técnicas de Estudo"
-excerpt: "Oficina sobre Técnicas de Estudo com a jornalista Dandara Lima"
+excerpt: "Oficina sobre Técnicas de Estudo com a jornalista Dandara Lima no dia 12/02/2021 às 15h"
 author_profile: false
 categories:
   - avisos
@@ -8,7 +8,9 @@ tags:
   - avisos
 ---
 
-Convidamos todos os alunos e alunas a participarem da <b>Oficina sobre Técnicas de Estudos</b> a ser ministrada pela jornalista Dandara Lima.
+Estimados alunos e alunas,
+
+Convidamos a participarem da <b>Oficina sobre Técnicas de Estudos</b> a ser ministrada pela jornalista Dandara Lima.
 
 <i>Dandara Lima é jornalista formada pela UNB. Especialista em marketing digital pela ESPM e formação em Gestão de Projetos pelo IDP. Trabalhou na Globo, SBT, Correio Braziliense e na CBN. Participa dos projetos: ATenda e Elas no Poder (ambos de assessoramento a mulheres na política). Faz parte do grupo de pesquisas  em Comunicação e Gênero da UNB - "Madalenas em ação". É sócia do Estúdio Pavio Criativo que atua, majoritariamente, na comunicação de causas e instituições. </i>
 
