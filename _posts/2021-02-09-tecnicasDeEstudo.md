@@ -20,6 +20,7 @@ O evento ocorrerá na sexta, dia 12/02/2021, às 15h00 na plataforma Google Meet
 Contamos com sua participação!
 
 Atenciosamente,
+
 Comissão de Acompanhamento Discente dos Cursos Superiores em Computação - 2020/1.
 
 
