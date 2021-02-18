@@ -12,11 +12,7 @@ Prezados estudantes,
 
 Segue a gravação da Oficina sobre Técnicas de Estudos com a jornalista Dandara Lima realizado no dia 12/02/2021 às 15h.
 
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://youtu.be/ecjYgsUGJAI" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ecjYgsUGJAI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Além disso, durante a apresentação, foram apresentados diversos links de ferramentas interessantes para auxiliar na gestão dos estudos:
 
