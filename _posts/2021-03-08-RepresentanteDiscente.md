@@ -1,6 +1,6 @@
 ---
-title: "Eleições para representante docente"
-excerpt: "Eleições para representante docente - dia 08/03/2021"
+title: "Eleições para representante discente"
+excerpt: "Eleições para representante discente - dia 08/03/2021"
 author_profile: false
 categories:
   - avisos
