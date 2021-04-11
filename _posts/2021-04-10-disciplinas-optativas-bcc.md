@@ -8,7 +8,7 @@ tags:
   - avisos
 ---
 
-Serão ofertadas duas disciplinas optativas no curso de Bacharelado em Ciência da Computação no decorrer do semestre letivo de 2021/1. Os nomes e ementas das disciplinas seguem abaixo.
+Serão ofertadas três disciplinas optativas no curso de Bacharelado em Ciência da Computação no decorrer do semestre letivo de 2021/1. Os nomes e ementas das disciplinas seguem abaixo.
 
 ## Optativa: Introdução às redes neurais artificiais
 
