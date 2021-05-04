@@ -1,5 +1,5 @@
 ---
-title: "BCC: Prováveis Formandos" 
+title: "BCC: Prováveis Formandos 2020/2" 
 excerpt: "Lista dos prováveis formandos do semestre de 2020/2 do curso de Bacharelado em Ciência da Computação."
 author_profile: false
 categories:
