@@ -8,7 +8,7 @@ tags:
   - avisos
 ---
 
-Abaixo seguem a lista dos prováveis formandos do semestre letivo 2020/2.
+Abaixo seguem a lista dos prováveis formandos do semestre letivo 2020/2 e o formulário para escolha do juramentista, Patrono e professor homenageado.
 
 - Bruno Faustino Cecilio da Silva 
 - Caio Cesar Felix Caldeira
