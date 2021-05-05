@@ -14,6 +14,7 @@ Abaixo seguem a lista dos prováveis formandos do semestre letivo 2020/2 e o for
 - Caio Cesar Felix Caldeira
 - Eloy Oliveira Guimarães
 - Flávia Dias Campos
+- George Antonio Ferreira de Araujo
 - Iago Farias de Moura
 - Lauany Reis da Silva
 - Luana Gonzaga de Souza
