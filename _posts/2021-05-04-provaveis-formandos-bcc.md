@@ -12,6 +12,7 @@ Abaixo seguem a lista dos prováveis formandos do semestre letivo 2020/2 e o for
 
 - Bruno Faustino Cecilio da Silva 
 - Caio Cesar Felix Caldeira
+- Einstein Ramos de Almeida
 - Eloy Oliveira Guimarães
 - Flávia Dias Campos
 - George Antonio Ferreira de Araujo
