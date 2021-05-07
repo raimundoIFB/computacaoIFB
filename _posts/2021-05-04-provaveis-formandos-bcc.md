@@ -19,6 +19,7 @@ Abaixo seguem a lista dos prováveis formandos do semestre letivo 2020/2 e o for
 - Iago Farias de Moura
 - Lauany Reis da Silva
 - Luana Gonzaga de Souza
+- Lucas Dias Linhares
 - Mateus Santos Costa
 - Matheus de Azevedo Feitosa Juca de Araujo
 - Rafael Padilha
