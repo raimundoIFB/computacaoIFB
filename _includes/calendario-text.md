@@ -1,1 +1,1 @@
-- [Calendário Acadêmico 2020/2]({{ site.baseurl | prepend: site.url }}/assets/abi/calendario-academico/calendario-academico-2020-2.pdf)
+- [Calendário Acadêmico 2021/1]({{ site.baseurl | prepend: site.url }}/assets/abi/calendario-academico/calendario-academico-2021-1.pdf)
