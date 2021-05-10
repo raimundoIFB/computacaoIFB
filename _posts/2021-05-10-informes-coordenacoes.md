@@ -13,8 +13,8 @@ Conforme reunião de acolhimento realizada no dia 10/05, às 16h, resumimos as p
 ## Canais de Comunicação
 
 - Os cursos de Computação possuem dois canais de comunicação, os quais são integrados.
-  1. Site do curso: https://computacaoifb.com
-  2. Canal do Telegram: https://t.me/computacaoifb
+  1. Site do curso: [https://computacaoifb.com](https://computacaoifb.com)
+  2. Canal do Telegram: [https://t.me/computacaoifb](https://t.me/computacaoifb)
 
 - Aproveitamos para comunicar que a coordenação de estágio do *campus* disponibilizou um [*site*](http://estagioifbtaguatinga.com.br) contendo os procedimentos para regularizar o estágio curricular supervisionado. 
 
