@@ -34,7 +34,7 @@ Conforme reunião de acolhimento realizada no dia 10/05, às 16h, resumimos as p
 
 - Devido ao alto número de alunos dos cursos de Computação e Física, será necessário criar uma turma extra de Cálculo 3 para o ABI. As aulas desta turma serão nos mesmos dias, porém a partir das 15h30.
 
-- Devido à oferta da turma extra de Cálculo 3, a oferta de Matemática Discreta foi Cancelada. Os alunos podem entrar em contato com as coordenações para efetuar o ajuste de disciplinas.
+- Devido à oferta da turma extra de Cálculo 3, a oferta de Matemática Discreta foi **cancelada**. Os alunos podem entrar em contato com as coordenações para efetuar o ajuste de disciplinas.
 
 - Além disso, informamos que a disciplina de Metodologia Científica será ofertada nas quartas-feiras de 10h50 às 12h30 com a professora Fernanda Bezerra Martins.
 
@@ -58,12 +58,13 @@ Conforme reunião de acolhimento realizada no dia 10/05, às 16h, resumimos as p
 ## Data limite para entrega dos pré-projetos
 
 - A data limite para entrega do pré-projeto, pré-requisito para matrícula em PCC, é dia 28 de maio.
-
 - O documento deverá ser submetido através da tarefa disponível na sala de aula virtual criada no [Google Classroom](https://classroom.google.com/c/MzM4MzU3NTMyMDkx?cjc=opjh2wo)
+- O modelo a ser utilizado para escrita do pré-projeto encontra-se no seguinte [repositório](https://github.com/IFBmodels/pre-projeto). 
 
 ## Datas limite para entrega de PCC e TCC
 
 - A data limite para entrega dos textos de PCC ou TCC às bancas examinadoras é dia 06 de setembro.
+- Os modelos [Word](http://normaliza.ifb.edu.br/doku.php) e [LaTeX](https://github.com/IFBmodels/tcc) para escrita dos documentos podem ser encontrados nos respectivos sites.
 
 ## Linhas de Pesquisa Docente
 
@@ -73,18 +74,18 @@ Conforme reunião de acolhimento realizada no dia 10/05, às 16h, resumimos as p
 ## Atividades Complementares
 
 - Os comprovantes em relação às atividades complementares, como certificados, podem ser enviados diretamente aos emails das coordenações. Certifiquem-se de observar os documentos dispostos no site dos cursos: 
-- [BCC]({{ site.baseurl }}{% link bcc/atividades-complementares.md %}) 
-- [LC]({{ site.baseurl }}{% link lc/atividades-complementares.md %})
+  - [BCC]({{ site.baseurl }}{% link bcc/atividades-complementares.md %}) 
+  - [LC]({{ site.baseurl }}{% link lc/atividades-complementares.md %})
 
-**Importante**: entreguem todos os comprovantes com pelo menos 2 semanas para o final do semestre, para que haja tempo hábil de realizar todos os procedimentos em ambas as coordenações, a de curso e a de Bacharelado em Ciência da Computação.
+**Importante**: entreguem todos os comprovantes com pelo menos 2 semanas para o final do semestre para que haja tempo hábil de realizar todos os procedimentos para convalidação das horas por parte da coordenação de curso.
 
 ## Fluxo de Estágio BCC
 
 - Caso você esteja iniciando um estágio ou já esteja estagiando, é importante registrar o estágio junto à coordenação de estágio do *campus*.
-- Após finalizar as 160h (ou 320h) você poderá registrá-las junto à coordenação de estágio para que a enquadração na(s) disciplina(s) de estágio supervisionado do BCC seja realizado.
+- Após finalizar as 160h (ou 320h) você poderá registrá-las junto à coordenação de estágio para que o enquadramento na(s) disciplina(s) de estágio supervisionado do BCC seja realizado.
 - A documentação necessária pode ser conferida no [site](http://estagioifbtaguatinga.com.br) elaborado pela coordenação de estágio.
 
-**Importante**: entreguem toda a documentação com pelo menos 2 semanas para o final do semestre, para que haja tempo hábil de realizar todos os procedimentos em ambas as coordenações, a de curso e a de Bacharelado em Ciência da Computação.
+**Importante**: entreguem toda a documentação com pelo menos 2 semanas para o final do semestre para que haja tempo hábil de realizar todos os procedimentos em ambas as coordenações, a de estágio e a de Bacharelado em Ciência da Computação.
 
 
 ## Libras e BCC
