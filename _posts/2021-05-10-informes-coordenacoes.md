@@ -65,7 +65,7 @@ Conforme reunião de acolhimento realizada no dia 10/05, às 16h, resumimos as p
 ## Datas limite para entrega de PCC e TCC
 
 - A data limite para entrega dos textos de PCC ou TCC às bancas examinadoras é dia 06 de setembro.
-- Os modelos [Word](http://normaliza.ifb.edu.br/doku.php) e [LaTeX](https://github.com/IFBmodels/tcc) para escrita dos documentos podem ser encontrados nos respectivos sites.
+- Os modelos [Word](http://normaliza.ifb.edu.br/doku.php) e [LaTeX](https://github.com/IFBmodels/tcc) para escrita dos documentos podem ser encontrados nos respectivos *sites*.
 
 ## Linhas de Pesquisa Docente
 
