@@ -22,8 +22,7 @@ Conforme reunião de acolhimento realizada no dia 10/05, às 16h, resumimos as p
 
 ## Calendário Acadêmico
 
-- O [Calendário Acadêmico do *campus* Taguatinga]({{ site.baseurl | prepend: site.url }}/assets/abi/calendario-academico/calendario-academico-2021-1.pdf)
-dispõe sobre diversos eventos importantes, tais como trancamento e ajuste de disciplinas e período para aproveitamento de estudos, fiquem atentos a eles.
+- O [Calendário Acadêmico]({{ site.baseurl | prepend: site.url }}/assets/abi/calendario-academico/calendario-academico-2021-1.pdf) do *campus* Taguatinga dispõe sobre diversos eventos importantes, tais como trancamento e ajuste de disciplinas e período para aproveitamento de estudos, fiquem atentos a eles.
 
 ## Ajuste de Disciplinas
 
