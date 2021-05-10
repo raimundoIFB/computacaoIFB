@@ -10,7 +10,7 @@ tags:
 
 Prezados alunos.
 
-É com satisfação que anunciamos uma recepção aos alunos veteranos dos cursos superiores em Computação no próximo dia 10, às 16h, através do [Google Meet](meet.google.com/daw-gpiz-okd). As coordenações trabalharão no sentido de fornecer vários avisos importantes para a condução do semestre letivo, que consideram:
+É com satisfação que anunciamos uma recepção aos alunos veteranos dos cursos superiores em Computação no próximo dia 10, às 16h, através do [Google Meet](https://meet.google.com/daw-gpiz-okd). As coordenações trabalharão no sentido de fornecer vários avisos importantes para a condução do semestre letivo, que consideram:
 
 - Informações sobre as disciplinas.
 - Atividades Complementares.
