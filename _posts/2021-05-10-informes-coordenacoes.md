@@ -1,6 +1,6 @@
 ---
-title: "Informações do primeiro encontro das disciplinas: 2021/1" 
-excerpt: "Informações das disciplinas  no que tange ao primeiro contato com as turmas."
+title: "Reunião de Acolhimento: Resumo" 
+excerpt: "Resumo da reunião de acolhimento dos veteranos, realizada no dia 10/05/2021."
 author_profile: false
 categories:
   - avisos
