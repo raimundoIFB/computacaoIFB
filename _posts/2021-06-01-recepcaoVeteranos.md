@@ -1,6 +1,6 @@
 ---
 title: "Recepção para os calouros - Veteranos, DCE e Ramo IEEE"
-excerpt: ""
+excerpt: "Recepção para os calouros - Veteranos, DCE e Ramo IEEE que ocorrerá na próxima quarta-feira,2 de junho, das 2:00 às 4:00pm"
 author_profile: false
 categories:
   - avisos
