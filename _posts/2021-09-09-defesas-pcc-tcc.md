@@ -1,5 +1,5 @@
 ---
-title: "Cronograma de Defesas de PCC e TCC: 2021/2" 
+title: "Cronograma de Defesas de PCC e TCC: 2021/1" 
 excerpt: "Cronograma de defesas de PCC e TCC dos cursos superiores em Computação do semestre letivo 2021/1."
 author_profile: false
 categories:
