@@ -18,7 +18,9 @@ Abaixo seguem as informações relativas às disciplinas optativas a serem ofert
 
 - **Nome da disciplina:** Processamento Digital de Imagens;
 - **Professor:** Raimundo Claudio da Silva Vasconcelos;
-- **Ementa:** Juízes Eletrônicos; Estruturas de dados e bibliotecas; Paradigmas de projetos de algoritmos; Algoritmos em grafos; Algoritmos matemáticos; Processamento de palavras; Geometria Computacional; Tópicos Avançados em Algoritmos.
+- **Ementa:** Fundamentos de Imagem Digital. Transformações Geométricas. Transformações Radiométricas. Filtragem no Domínio Espacial. Filtragem no Domínio da Frequência. Realce e Suavização. Introdução à Morfologia Matemática. Compressão. Introdução à Segmentação. Aplicações.
+
+
 
 - **Nome da disciplina:** Programação Orientada a Eventos com Kafka;
 - **Professor:** José Gonçalo dos Santos;
