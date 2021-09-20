@@ -9,7 +9,7 @@ tags:
 ---
 
 
-Abaixo seguem as informações relativas às disciplinas optativas a serem ofertadas nos cursos de Bacharelado em Ciência da Computação e Licenciatura em Computaçao no segundo semestre letivo de 2021.
+Abaixo seguem as informações relativas às disciplinas optativas a serem ofertadas nos cursos de Bacharelado em Ciência da Computação e Licenciatura em Computação no segundo semestre letivo de 2021.
 
 
 - **Nome da disciplina:** Tópicos Especiais em Algoritmos;
@@ -22,7 +22,10 @@ Abaixo seguem as informações relativas às disciplinas optativas a serem ofert
 
 
 
-- **Nome da disciplina:** Programação Orientada a Eventos com Kafka;
+<strike>- **Nome da disciplina:** Programação Orientada a Eventos com Kafka;
 - **Professor:** José Gonçalo dos Santos;
-- **Ementa:**  Programação Orientada a Eventos (Event Driven Application - EDA); Modelos de arquitetura orientada a eventos; Mediador; Broker; Kafka; Programação Orientada A Eventos com Java.
+- **Ementa:**  Programação Orientada a Eventos (Event Driven Application - EDA); Modelos de arquitetura orientada a eventos; Mediador; Broker; Kafka; Programação Orientada A Eventos com Java. </strike>
 
+- **Nome da disciplina:** Machine Learning na Prática com Python
+- **Professor:** José Gonçalo dos Santos
+- **Ementa:** Linguagem python: introdução; fundamentos; funções; lista, tupla e dicionário; python Orientado a Objetos. Fundamentos de Machine Learning. Obtenção e tratamento dos dados. Modelos de classificação: fundamentos e implementação. Redes Neurais Artificias: fundamentos e implementação; redes neurais convolucionais - fundamentos e implementação; redes neurais recorrentes - fundamentos e implementação.
