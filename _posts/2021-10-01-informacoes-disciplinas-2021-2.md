@@ -1,5 +1,5 @@
 ---
-title: "Disciplinas Optativas 2021/2" 
+title: "Informações das Disciplinas 2021/2" 
 excerpt: "Informações das Disciplinas 2021/2"
 author_profile: false
 categories:
