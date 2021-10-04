@@ -1,5 +1,5 @@
 ---
-title: "Fluxo: Estágio e PPC 2021/2" 
+title: "Fluxo: Estágio e PCC 2021/2" 
 excerpt: "Fluxo para as disciplinas de estágio supervisionado (BCC) e PCC (BCC e LC)"
 author_profile: false
 categories:
