@@ -8,13 +8,13 @@ tags:
   - avisos
 ---
 
-#### Estágio Supervisionado (BCC)
+## Estágio Supervisionado (BCC)
 
 As disciplinas de Estágio Supervisionado do curso de Bacharelado em Ciência da Computação possuem um fluxo próprio de matrículas. Só serão matrículados os alunos que apresentarem toda a documentação requerida na CDEE (Coordenação de Estágio e Extensão).
 
 Para mais informações, [acesse](estagioifbtaguatinga.com.br).
 
-#### Projeto de Conclusão de Curso (BCC e LC)
+## Projeto de Conclusão de Curso (BCC e LC)
 
 As disciplinas de Projeto de Conclusão de Curso dos cursos de Bacharelado em Ciência da Computação e Licenciatura em Computação possuem um fluxo próprio de matrícula.
 
