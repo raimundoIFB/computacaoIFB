@@ -15,8 +15,8 @@ A lista de prováveis formandos do curso de Bacharelado em Ciência da Computaç
 | Estudantes               |
 |--------------------------|
 | Danyelle da Silva Oliveira Angelo          |
-| Guilherme Vieira Nascimento |
 | Gregory Henrique Moreira dos Santos Pereira |
+| Guilherme Vieira Nascimento |
 | Gustavo Rocha Flores            |
 | Virgilio Stefanin Pacheco dos Santos          |
 
