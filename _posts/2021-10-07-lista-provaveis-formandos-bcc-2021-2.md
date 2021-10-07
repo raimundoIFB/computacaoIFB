@@ -14,10 +14,10 @@ A lista de prováveis formandos do curso de Bacharelado em Ciência da Computaç
 
 | Estudantes               |
 |--------------------------|
-| Danyelle Angelo          |
-| Gregory Henrique Pereira |
-| Gustavo Rocha            |
-| Virgílio Santos          |
+| Danyelle da Silva Oliveira Angelo          |
+| Gregory Henrique Moreira dos Santos Pereira |
+| Gustavo Rocha Flores            |
+| Virgilio Stefanin Pacheco dos Santos          |
 
 Os alunos listados deverão quitar todas as pendências até a colação de grau, como as entregas de:
 
