@@ -18,6 +18,7 @@ A lista de prováveis formandos do curso de Bacharelado em Ciência da Computaç
 | Gregory Henrique Moreira dos Santos Pereira |
 | Guilherme Vieira Nascimento |
 | Gustavo Rocha Flores            |
+| Rafael Job Pereira | 
 | Virgilio Stefanin Pacheco dos Santos          |
 
 Os alunos listados deverão quitar todas as pendências até a colação de grau, como as entregas de:
