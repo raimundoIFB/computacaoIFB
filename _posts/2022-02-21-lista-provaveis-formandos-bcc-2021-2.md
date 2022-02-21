@@ -28,4 +28,4 @@ Os alunos listados deverão quitar todas as pendências até a colação de grau
 - Versão final do TCC à biblioteca.
 
 
-Caso algum aluno não esteja nesta lista ou ainda não tenha integralizado todas as disciplinas, entrar em contato com a coordenação de curso informando.
+Caso algum aluno não esteja nesta lista ou ainda não tenha integralizado todas as disciplinas **(incluindo 4 disciplinas optativas de 72 horas-aula)**, entrar em contato com a coordenação de curso informando.
