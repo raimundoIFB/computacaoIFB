@@ -19,7 +19,11 @@ A lista de prováveis formandos do curso de Bacharelado em Ciência da Computaç
 | Gustavo Rocha Flores          |
 | Hugo Gustavo dos Santos Pinto |
 | Maurício César de Arruda Chaer |
+| Mateus de Souza Pequeno Furtado de Mendonça|
 | Rodrigo de Oliveira Freire |
+| Thiago Gabriel Souza Oliveira |
+| Victor Marques de Souza dos Anjos |
+
 
 Os alunos listados deverão quitar todas as pendências até a colação de grau, tais como: 
 
