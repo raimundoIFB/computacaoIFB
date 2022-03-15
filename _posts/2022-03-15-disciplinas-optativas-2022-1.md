@@ -10,7 +10,7 @@ tags:
 
 Abaixo seguem as disciplinas optativas a serem oferecidas no semestre 2022/1:
 
-- Introdução à Ciência de Dados
+-  Fundamentos de Ciência de Dados
   - Prof. Roberto Fontes
 
 - Desenvolvimento Web Moderno
