@@ -1,6 +1,6 @@
 ---
-title: "Acolhimento dos alunos Veteranos 2022/1"
-excerpt: "Acolhimento dos alunos Veteranos 2022/1"
+title: "Acolhimento dos alunos ingressantes 2022/1"
+excerpt: "Acolhimento dos alunos ingressantes 2022/1"
 author_profile: false
 categories:
   - avisos
