@@ -15,7 +15,8 @@ Seguem abaixo os pontos tratados no acolhimento aos alunos veteranos, realizado 
 
 - Fiquem atento às [normativas](https://www.ifb.edu.br/institucional/conselho-superior/resolucoes/163-uncategorised/29799-retorno-as-atividades-presenciais-orientacoes-gerais) do IFB com respeito ao retorno presencial.
 - Limitação de estudantes por turma: todas as turmas tiveram a sua capacidade limitada a 32 alunos para preservação do distanciamento social. A exceção para esta regra são os anfiteatros, que tiveram a sua capacidade estabelecida em 40 alunos.
-- As disciplinas de Compiladores, Estruturas de Dados e Algoritmos e Fundamentos de Ciência de Dados, ministradas pelo prof. Roberto Fontes, ocorrerão de maneira remota. Em caso de esclarecimentos, procurar o professor em seu (e-mail)[mailto:prof@fontes.pro.br].
+- As disciplinas de Compiladores, Estruturas de Dados e Algoritmos e Fundamentos de Ciência de Dados, ministradas pelo prof. Roberto Fontes, ocorrerão de maneira remota. Em caso de esclarecimentos, procurar o professor em seu 
+- [e-mail](mailto:prof@fontes.pro.br).
 - Algumas mudanças de horários foram efetuadas:
   - Metodologia Científica: segundas-feiras, 13h30 às 15h10
   - Física para Computação: terças-ferias, 13h30 às 17h10
