@@ -12,6 +12,8 @@ Seguem abaixo os pontos tratados no acolhimento aos alunos veteranos, realizado
 no dia 05/04/2022. A apresentação utilizada no acolhimento pode ser obtida
 [aqui](https://docs.google.com/presentation/d/1n9s4ysQ38mkVGDFlG1FppGmBeLw_N6mQfl1GdP0enL4/edit?usp=sharing).
 
+{:toc}
+
 
 ## Informes
 
@@ -81,12 +83,12 @@ no dia 05/04/2022. A apresentação utilizada no acolhimento pode ser obtida
   - Ficha de avaliação do estágio pelo estudante.
   - Ficha de avaliação do estudante pela empresa.
   - Formulário de frequência.
-- Relatório Final
+  - Relatório Final
 - **Prazo máximo** para entrega dos documentos: 30 dias para o fechamento dos
   diários.
 - Sites de apoio:
-  - https://computacaoifb.com/bcc/estagio-curricular
-  - https://estagioifbtaguatinga.com.br
+  - [https://computacaoifb.com/bcc/estagio-curricular](https://computacaoifb.com/bcc/estagio-curricular)
+  - [https://estagioifbtaguatinga.com.br](https://estagioifbtaguatinga.com.br)
 
 ## Atividades Complementares
 
