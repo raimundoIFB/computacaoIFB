@@ -35,9 +35,10 @@ no dia 05/04/2022. A apresentação utilizada no acolhimento pode ser obtida
 - Os formulários de ajuste de matrículas e quebra de pré-requisitos estão
   disponibilizados no [site dos cursos]({% post_url
   2022-03-31-ajuste-e-quebra-de-pré-requisitos-2022-1 %})
-- **Aula Magna**: Teremosuma aula Magna com a profa. Rozelma Soares de França,
+- **Aula Magna**: Teremos uma aula Magna com a profa. Rozelma Soares de França,
   dia 19/04, às 16h30, através de videoconferência. Haverá certificado para os
   participantes.
+  - **Tema: Perspectivas e Oportunidades em Carreiras na Computação**.
 - Fiquem atentos ao [calendário
   acadêmico](https://drive.google.com/file/d/1SERjAXAXg7T_k7L5Yz5js7I6gOE-yyfn/view).
 
