@@ -27,8 +27,7 @@ no dia 05/04/2022. A apresentação utilizada no acolhimento pode ser obtida
 - As disciplinas de Compiladores, Estruturas de Dados e Algoritmos e
   Fundamentos de Ciência de Dados, ministradas pelo prof. Roberto Fontes,
   ocorrerão de maneira remota. Em caso de esclarecimentos, procurar o professor
-  em seu 
-- [e-mail](mailto:prof@fontes.pro.br).
+  em seu [e-mail](mailto:prof@fontes.pro.br).
 - Algumas mudanças de horários foram efetuadas:
   - Metodologia Científica: segundas-feiras, 13h30 às 15h10
   - Física para Computação: terças-ferias, 13h30 às 17h10
