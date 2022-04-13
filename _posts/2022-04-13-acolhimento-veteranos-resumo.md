@@ -12,8 +12,8 @@ Seguem abaixo os pontos tratados no acolhimento aos alunos veteranos, realizado
 no dia 05/04/2022. A apresentação utilizada no acolhimento pode ser obtida
 [aqui](https://docs.google.com/presentation/d/1n9s4ysQ38mkVGDFlG1FppGmBeLw_N6mQfl1GdP0enL4/edit?usp=sharing).
 
+* TOC
 {:toc}
-
 
 ## Informes
 
