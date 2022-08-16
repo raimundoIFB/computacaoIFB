@@ -25,7 +25,6 @@ A lista de prováveis formandos do curso de Bacharelado em Ciência da Computaç
 | João Paulo Euzébio Paiva|
 | Kaio Ribeiro Rodrigues|
 | Raquel Pinheiro da Costa|
-| Victor Maciel Clímaco |
  
 Os alunos listados deverão quitar todas as pendências até a colação de grau, como as entregas de:
 
