@@ -38,6 +38,7 @@ Segue abaixo a lista de disciplinas optativas dos cursos de Bacharelado em Ciên
 -----------
 
 
+
 - **Nome**: Introdução à Programação Competitiva
 - **Professor**: Daniel Saad
 - **Ementa**: Conceitos de programação competitiva; Juízes eletrônicos e Competições de programação; C++ moderno para competições de programação; Ordenação e Busca; Estruturas de Dados Lineares: listas, filas e pilhas; Heaps Binárias e  Filas de prioridade; Standard Template Library; Vetores de Bits; Mapeamentos e Conjuntos.
