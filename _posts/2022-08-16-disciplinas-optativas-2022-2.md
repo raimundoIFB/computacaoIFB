@@ -33,7 +33,7 @@ Segue abaixo a lista de disciplinas optativas dos cursos de Bacharelado em Ciên
 
 - **Nome**: Desenvolvimento de Progressive Web Apps
 - **Professor**: Leandro Vaguetti;
-- **Ementa**: a ser anunciada.
+- **Ementa**: Esta disciplina trata de conteúdos relativos ao desenvolvimento de FrontEnd Web alinhado com a tecnologia PWA (Progressive Web Apps). As tecnologias de desenvolvimento são baseadas em JavaScript/Typescript, utilizando-se de frameworks/APIs como React, React Native, Expo, Axios, etc. Além disso, outras e variadas tecnologias para desenvolvimento e validação serão utilizadas complementarmente.
 
 -----------
 
