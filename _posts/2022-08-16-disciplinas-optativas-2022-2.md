@@ -24,14 +24,14 @@ Segue abaixo a lista de disciplinas optativas dos cursos de Bacharelado em Ciên
 -----------
 
 
-- **Nome**: Projeto e Desenvolvimento de APIs REST
+- **Nome**: Projeto e Desenvolvimento de APIs REST (Optativa 3)
 - **Professor**: Leandro Vaguetti
 - **Ementa**: Esta disciplina trata de conteúdos relativos ao Projeto, Documentação, Desenvolvimento e Testes de API REST. As tecnologias de desenvolvimento são baseadas em JavaScript/Typescript, utilizando-se de frameworks/APIs como Express, Mongoose, Sequelize, etc. Além disso, outras e variadas tecnologias para documentação, projeto e testes serão utilizadas complementarmente.
 
 -----------
 
 
-- **Nome**: Desenvolvimento de Progressive Web Apps
+- **Nome**: Desenvolvimento de Progressive Web Apps (Optativa 4)
 - **Professor**: Leandro Vaguetti;
 - **Ementa**: Esta disciplina trata de conteúdos relativos ao desenvolvimento de FrontEnd Web alinhado com a tecnologia PWA (Progressive Web Apps). As tecnologias de desenvolvimento são baseadas em JavaScript/Typescript, utilizando-se de frameworks/APIs como React, React Native, Expo, Axios, etc. Além disso, outras e variadas tecnologias para desenvolvimento e validação serão utilizadas complementarmente.
 
