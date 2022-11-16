@@ -10,4 +10,4 @@ tags:
 
 Os certificados de participação da aula magna dos cursos superiores em Computação, realizada em 19 de abril de 2022, seguem abaixo.
 
-- [Comissão Organizadora]({{site.baseurl | prepend: site.url }}/assets/all/2022-04-19-aula-magna/2022-04-19-aula-magna-certificado-participantes.pdf)
+- [Certificados]({{site.baseurl | prepend: site.url }}/assets/all/2022-04-19-aula-magna/2022-04-19-aula-magna-certificado-participantes.pdf)
