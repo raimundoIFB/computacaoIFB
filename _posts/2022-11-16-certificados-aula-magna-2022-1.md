@@ -1,6 +1,6 @@
 ---
 title: "Certificados da Aula Magna de 2022/1" 
-excerpt:
+excerpt: "Certificados de participação da aula magna realizada no início do semestre 2022/1"
 author_profile: false
 categories:
   - avisos
