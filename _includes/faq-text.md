@@ -2,6 +2,15 @@
 {:toc}
 
 
+## Como ingressar nos cursos superiores de Computação do IFB?
+
+O processo seletivo para ingresso dos cursos superiores em computação é realizada por intermédio do SISU do início de cada ano, que utiliza a nota do ENEM.
+
+## O que significa ABI?
+
+O ingresso nos cursos superiores em computação é realizado em uma área básica de ingresso, que possui as disciplinas em comum dos cursos de Bacharelado em Ciência da Computação e Licenciatura em Computação. Após o quarto semestre do curso, os estudantes optam pelo Bacharelado em Ciência da Computação ou pela Licenciatura em Computação.
+
+
 ## Como solicitar o aproveitamento de disciplinas?
 
 De acordo com a Organização Didático Pedagógica do IFB ([ODP]({{site.baseurl | prepend: site.url }}/assets/abi/odp.pdf)), é possível haver aproveitamento de estudos de componentes curriculares desde que:
