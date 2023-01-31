@@ -4,7 +4,7 @@
 
 ## Como ingressar nos cursos superiores de Computação do IFB?
 
-O processo seletivo para ingresso dos cursos superiores em computação é realizada por intermédio do SISU do início de cada ano, que utiliza a nota do ENEM.
+O processo seletivo para ingresso dos cursos superiores em computação é realizada por intermédio do SISU do início de cada ano, que utiliza a nota do ENEM. Mais informações no [site do IFB](https://www.ifb.edu.br/estude-no-ifb/processo-seletivo).
 
 ## O que significa ABI?
 
