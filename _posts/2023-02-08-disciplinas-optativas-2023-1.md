@@ -23,7 +23,3 @@ Segue abaixo a lista de disciplinas optativas dos cursos de Bacharelado em Ciên
 - **Ementa**: Consultar professor (leandro.vaguetti@ifb.edu.br).  
 
 -----------
-
-- **Nome**: Fundamentos de Ciência de Dados
-- **Professor**: Roberto Fontes
-- **Ementa**: Fundamentos de Ciência dos Dados e modelos de gestão de dados. Definição e seleção de amostragens. Problemas e soluções em Ciência de Dados.  Métodos matemáticos e computacionais para análise de dados. Análise de dados com técnicas de aprendizado de máquina. Métricas de desempenho, indicadores e sistemas de medição.
