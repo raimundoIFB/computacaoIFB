@@ -1,6 +1,6 @@
 ---
 title: "Opção de Curso 2023/1" 
-excerpt: "Opção de Curso 2023/1"
+excerpt: "Opção de Curso 2023/1 para os alunos que concluíram os primeiros 4 semestres do curso."
 author_profile: false
 categories:
   - avisos
