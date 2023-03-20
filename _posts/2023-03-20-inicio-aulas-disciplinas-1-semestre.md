@@ -1,5 +1,5 @@
 ---
-title: "Início das Aulas (Calouros)" 
+title: "Início das Aulas (disciplinas de 1° semestre)" 
 excerpt: "Informe sobre o início das aulas das disciplinas de 1° semestre."
 author_profile: false
 categories:
