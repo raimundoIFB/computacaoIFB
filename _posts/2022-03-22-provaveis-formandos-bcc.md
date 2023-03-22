@@ -10,7 +10,7 @@ tags:
 
 
 
-A lista de prováveis formandos do curso de Bacharelado em Ciência da Computação no período de 2022/2, que colarão grau no dia 19/04/2023, segue abaixo.
+A lista de prováveis formandos do curso de Bacharelado em Ciência da Computação no período de 2022/2, que colarão grau no dia 19/04/2023 no *campus* Samambaia, segue abaixo.
 
 
 | Estudantes               |
