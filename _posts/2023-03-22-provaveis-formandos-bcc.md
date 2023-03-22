@@ -1,6 +1,6 @@
 ---
 title: "Prováveis Formandos BCC 2022/2" 
-excerpt: "Lista dos prováveis formandos do curso de Bacharelado em Ciência da Computação, período letivo de 2022/1."
+excerpt: "Lista dos prováveis formandos do curso de Bacharelado em Ciência da Computação, período letivo de 2022/2."
 author_profile: false
 categories:
   - avisos
