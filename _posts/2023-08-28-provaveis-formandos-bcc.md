@@ -24,6 +24,7 @@ A lista de prováveis formandos do curso de Bacharelado em Ciência da Computaç
 | FILIPE CAVALCANTE |
 | NATHALIA PINHEIRO DA COSTA |
 | DAVI MATIAS ARAÚJO |
+| WANDERSON RAMOS DOS SANTOS |
  
 Os alunos listados deverão quitar todas as pendências até a colação de grau, como as entregas de:
 
