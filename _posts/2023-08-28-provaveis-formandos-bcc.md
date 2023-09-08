@@ -21,7 +21,7 @@ A lista de prováveis formandos do curso de Bacharelado em Ciência da Computaç
 | DANIEL SOUZA DE MELLO AULER WAACK |
 | ALEXANDRE TEIXEIRA DE OLIVEIRA |
 | RAFAEL UMETSU |
-| JFILIPE CAVALCANTE |
+| FILIPE CAVALCANTE |
 | NATHALIA PINHEIRO DA COSTA |
 | DAVI MATIAS ARAÚJO |
  
