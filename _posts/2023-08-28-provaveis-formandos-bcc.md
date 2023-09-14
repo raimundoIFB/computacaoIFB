@@ -10,7 +10,7 @@ tags:
 
 
 
-A lista de prováveis formandos do curso de Bacharelado em Ciência da Computação no período de 2023/1, que colarão grau no período de 09 a 10/10/2023, segue abaixo.
+A lista de prováveis formandos do curso de Bacharelado em Ciência da Computação no período de 2023/1, que colarão grau no período de 30 a 31/10/2023, segue abaixo.
 
 
 | Estudantes               |
