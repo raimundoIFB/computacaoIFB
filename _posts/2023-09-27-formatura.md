@@ -6,7 +6,6 @@ categories:
   - avisos
 tags:
   - avisos
-
 ---
 
 Orientações para os(as) formandos(as) do primeiro semestre de 2023
