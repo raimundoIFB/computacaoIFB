@@ -1,5 +1,5 @@
 ---
-title: "Informe Fromatura 2023/1" 
+title: "Informe Formatura 2023/1" 
 excerpt: "Informe sobre os procedimentos da Formatura 2023.1"
 author_profile: false
 categories:
