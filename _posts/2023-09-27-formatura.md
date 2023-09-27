@@ -1,3 +1,14 @@
+---
+title: "Informe Fromatura 2023/1" 
+excerpt: "Informe sobre os procedimentos da Formatura 2023.1"
+author_profile: false
+categories:
+  - avisos
+tags:
+  - avisos
+
+---
+
 Orientações para os(as) formandos(as) do primeiro semestre de 2023
 
 Neste semestre,  a cerimônia de Colação de Grau do IFB 1/2023, dos campi Ceilândia, Estrutural, Gama, Planaltina, Riacho Fundo, Samambaia, São Sebastião e Taguatinga, acontecerá no dia 1º de novembro de 2023, no Auditório da Câmara Legislativa, no end. Praça Municipal, Quadra 2, Lote 5, Zona Cívico-Administrativa, Brasília - DF, às 19h.
