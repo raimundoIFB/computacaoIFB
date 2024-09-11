@@ -13,9 +13,11 @@ Dentro dela haverá a Semana da Computação com vários subeventos.
 Façam sua inscrição no evento principal e nos subeventos do seu interesse:
 
 Semana Integrada do campus Taguatinga
+
 https://eventos.ifb.edu.br/frontend/events/1444
 
 Semana da Computação
+
 https://eventos.ifb.edu.br/frontend/events/1448
 
 - Palestra Multimodalidade na Interação
