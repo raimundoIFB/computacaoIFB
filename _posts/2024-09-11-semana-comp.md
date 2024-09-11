@@ -1,5 +1,5 @@
 ---
-title: "Inscrição na V Semana da Computação"
+title: "V Semana da Computação"
 excerpt: "Semana Computação"
 author_profile: false
 categories:
@@ -18,16 +18,11 @@ https://eventos.ifb.edu.br/frontend/events/1444
 Semana da Computação
 https://eventos.ifb.edu.br/frontend/events/1448
 
-Palestra Multimodalidade na Interação
-
-Palestra Segurança da Informação: Você confia em seu sistema de inteligência artificial? 
-
-Oficina Introdução ao Photoshop
-
-Palestra Apresentação Plataforma REMAR 
-
-Oficina Construção Carrinho de Controle Remoto Bluetooth com Arduino e AppInventor
-
-IX Maratona de Programação do IFB
+- Palestra Multimodalidade na Interação
+- Palestra Segurança da Informação: Você confia em seu sistema de inteligência artificial? 
+- Oficina Introdução ao Photoshop
+- Palestra Apresentação Plataforma REMAR 
+- Oficina Construção Carrinho de Controle Remoto Bluetooth com Arduino e AppInventor
+- IX Maratona de Programação do IFB
 
 Participem!
