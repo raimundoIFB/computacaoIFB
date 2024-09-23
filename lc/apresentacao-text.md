@@ -8,8 +8,8 @@
 - **Ingresso**: No 1º Semestre Letivo de cada ano;
 - **Sistema de Matrícula**: Por disciplina;
 - **Estágio**: Obrigatório, realizado nos 4 últimos semestres, com 100 horas cada;
-- **Coordenador**: Prof. João Victor de Araújo Oliveira;
-  - Contato: joao.oliveira[at]ifb.edu.br.
+- **Coordenador**: Prof. Thiago Batista Amorim;
+  - Contato: thiago.amorim[at]ifb.edu.br.
 
 ## Apresentação 
 
