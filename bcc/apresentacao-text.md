@@ -7,8 +7,8 @@
 - **Ingresso**: No 1º Semestre Letivo de cada ano;
 - **Sistema de Matrícula**: Por disciplina;
 - **Estágio**: Obrigatório, realizado nos 2 últimos semestres com carga horária total de 320 horas;
-- **Coordenador**: Prof. Daniel Saad Nogueira Nunes;
-  - Contato: daniel.nunes[at]ifb.edu.br.
+- **Coordenador**: Prof. Raimundo Claudio da Silvas Vasconcelos;
+  - Contato: raimundo.vasconcelos[at]ifb.edu.br.
 
 
 O perfil do egresso do curso de Bacharelado em Ciência da Computação é o de um profissional capaz de atuar nas áreas de serviços, industrial, comercial e acadêmica, podendo trabalhar no âmbito do ensino, da pesquisa, da prestação de serviços e do desenvolvimento científico e tecnológico de sua comunidade. Os bacharéis em Ciência da Computação devem:
