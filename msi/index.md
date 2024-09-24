@@ -6,5 +6,5 @@ sidebar:
     nav: "msi"
 ---
 
-Em construção.
+Em construção (breve online).
 
