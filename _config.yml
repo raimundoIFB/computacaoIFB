@@ -19,7 +19,7 @@ title                    : "Computação IFB"
 title_separator          : "-"
 name                     : "Computação IFB"
 description              : "Portal dos cursos de Computação do IFB-Taguatinga."
-url                      : "https://computacaoifb.com.br"
+url                      : "http://computacaoifb.com.br"
 # url: localhost:4000
 baseurl                  : "" # the subpath of your site, e.g. "/computacao-ifb"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
