@@ -89,6 +89,8 @@ msi:
   - title: "Documentos"
     url: /msi/documentos
 serv_da:
+  - title: "Serviços Datacenter"
+    url: /serv_da/index
   - title: "Máquina Virtual"
     url: /serv_da/vm
   - title: "Acesso VPN"
