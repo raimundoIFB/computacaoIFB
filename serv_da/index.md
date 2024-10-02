@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: false
-title: "Serviços Datacenter acadêmico "
+title: "Serviços Datacenter Acadêmico "
 sidebar:
     nav: "serv_da"
 ---
