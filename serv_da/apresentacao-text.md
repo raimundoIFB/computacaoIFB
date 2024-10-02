@@ -5,9 +5,9 @@ Os recursos devem ser solicitados à equipe de TI do bloco através dos formulá
 
 Os serviços atualmente disponíveis são:
 
-* [Solicitação de máquinas virtuais](/serv_da/vm.md)
+* [Solicitação de máquinas virtuais](/serv_da/vm)
 
-* [Solicitação de acesso à rede via VPN](/serv_da/vpn.md)
+* [Solicitação de acesso à rede via VPN](/serv_da/vpn)
 
 
 <br>
