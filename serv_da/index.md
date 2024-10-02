@@ -1,9 +1,9 @@
 ---
 layout: single
 author_profile: false
-title: "Técnico em Manutenção e Suporte em Informática"
+title: "Serviços Datacenter acadêmico "
 sidebar:
-    nav: "msi"
+    nav: "serv_da"
 ---
 
 Em construção (breve online).
