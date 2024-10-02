@@ -88,4 +88,9 @@ msi:
     url: http://siabi.ifb.edu.br/
   - title: "Documentos"
     url: /msi/documentos
+serv_da:
+  - title: "Máquina Virtual"
+    url: /serv_da/vm
+  - title: "Acesso VPN"
+    url: /serv_da/vpn
   
