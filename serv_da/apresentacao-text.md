@@ -1,6 +1,7 @@
 
 O Datacenter Acadêmico do bloco D - campus Taguatinga, provê serviços de hospedagem de máquinas virtuais e outros recursos, quando disponíveis, como suporte a projetos de pesquisa, extensão e trabalhos de conclusão de curso.
-Os recursos devem ser solicitados à equipe do bloco através dos formulários disponíveis nesta sessão.
+
+Os recursos devem ser solicitados à equipe de TI do bloco através dos formulários disponíveis nesta sessão.
 
 Os serviços atualmente disponíveis são:
 
