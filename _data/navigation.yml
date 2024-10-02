@@ -9,6 +9,9 @@ main:
   - title: "Técnico em Manutenção e Suporte em Informática"
     abbreviation: "MSI"
     url: /msi/
+  - title: "Serviços Datacenter Acadêmico"
+    abbreviation: "Serviços"
+    url: /serv_da/
 
 bcc:
   - title: "Apresentação"
