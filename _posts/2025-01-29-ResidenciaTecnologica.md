@@ -38,4 +38,4 @@ Pesquisador em Segurança da Informação e Criptografia
 
 *CPqD - Diretoria de Gestão de Tecnologia da Informação e Comunicação*
 
-ambraga@cpqd.com.br <email@cpqd.com.br>
+<ambraga@cpqd.com.br> <email@cpqd.com.br>
