@@ -36,7 +36,7 @@ Categoria: PCC
 - Estudante(s): TALES LIMA DE OLIVEIRA
 - Título:  *RECONHECIMENTO E TRADUÇÃO DE FRASES EM LIBRAS UTILIZANDO REDES NEURAIS*
 - Data: 17/02/2025, segunda-feira, às 15h30.
-- Local: meet.google.com/ini-fbhg-xch
+- Local: meet.google.com/jvk-ihkb-zsw
 - Orientador(a): Dr. Raimundo Cláudio da Silva Vasconcelos
 - Banca Examinadora: Me. João Victor de Araújo Oliveira e Me. Thiago Batista Amorim
 
