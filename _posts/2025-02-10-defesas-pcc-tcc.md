@@ -74,7 +74,7 @@ Categoria: PCC
 - Estudante(s): Igor de Jesus Matos
 - Título:  *SAFEWEB — Sistema de Proteção e Diagnóstico para Web*
 - Data: 20/02/2025, quinta-feira, às 14h00.
-- Local: meet.google.com/hwb-nqvb-rti
+- Local: https://meet.google.com/dcp-dtoi-ooh
 - Orientador(a): Me. Henrique Pereira de Freitas Filho
 - Banca Examinadora: Dr. Raimundo Cláudio da Silva Vasconcelos e Dr. Fabiano Cavalcanti Fernandes
 
