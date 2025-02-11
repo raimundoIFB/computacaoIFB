@@ -53,6 +53,14 @@ Categoria: TCC
 ### 19/02/2025
 
 Categoria: TCC
+- Estudante(s): VINICIUS YUKIO VATANABI
+- Título:  *EXPLORAÇÃO DA RELAÇÃO ENTRE LINHAS DE PRODUTO DE SOFTWARE E MICROSSERVIÇOS NA CRIAÇÃO DE SWAGGER PERSONALIZADO*
+- Data: 19/02/2025, quarta-feira, às 9h00.
+- Local:  https://meet.google.com/juz-hnnd-sah
+- Orientador(a): Dr. Leandro Vaguetti
+- Banca Examinadora: Prof. Msc. João Victor de Araujo Oliveira e Prof. Dr. José Gonçalo dos Santos
+
+Categoria: TCC
 - Estudante(s): Gabriel Junio C. Lima
 - Título:  *Prototipação de um Plugin do Moodle para Integrar a um Sistema de Recomendação Educacional que Promove a Colaboração em Fóruns de Discussão*
 - Data: 19/02/2025, quarta-feira, às 10h30.
@@ -86,6 +94,14 @@ Categoria: PCC
 - Orientador(a): Dr. Fabiano Cavalcanti Fernandes
 - Banca Examinadora: Dr. Raimundo Cláudio da Silva Vasconcelos e Dr. Fabiano Cavalcanti Fernandes
 
+Categoria: TCC
+- Estudante(s): Dermevaldo Dias Marques
+- Título:  *Letramento digital na educação profissional de jovens e adultos: uma proposta complementar para o curso PROEJA em Artesanato*
+- Data: 20/02/2025, quinta-feira, às 20h00.
+- Local:  https://meet.google.com/joy-tsqg-eqv
+- Orientador(a): Me. Thiago Batista Amorim Co-orientadora: Drª. Veruska Ribeiro Machado
+- Banca Examinadora: Me. Fernanda Bezerra Mateus Martins e Dr. Raimundo Claudio da Silva Vasconcelos
+  
 ### 21/02/2025
 
 Categoria: TCC
