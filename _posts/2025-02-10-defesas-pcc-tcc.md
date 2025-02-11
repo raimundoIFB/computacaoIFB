@@ -99,7 +99,8 @@ Categoria: TCC
 - Título:  *Letramento digital na educação profissional de jovens e adultos: uma proposta complementar para o curso PROEJA em Artesanato*
 - Data: 20/02/2025, quinta-feira, às 20h00.
 - Local:  https://meet.google.com/joy-tsqg-eqv
-- Orientador(a): Me. Thiago Batista Amorim Co-orientadora: Drª. Veruska Ribeiro Machado
+- Orientador(a): Me. Thiago Batista Amorim
+- Co-orientadora: Drª. Veruska Ribeiro Machado
 - Banca Examinadora: Me. Fernanda Bezerra Mateus Martins e Dr. Raimundo Claudio da Silva Vasconcelos
   
 ### 21/02/2025
