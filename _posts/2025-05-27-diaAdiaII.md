@@ -10,7 +10,7 @@ tags:
 A empresa Dia-a-Dia está selecionando estagiários de análise de dados.
 
 Requisitos necessários:
-•	Cursando  Computação, estatística, matemática ou áreas correlatas;
+Cursando  Computação, estatística, matemática ou áreas correlatas;
 •	Experiência prévia em análise de dados ou áreas relacionadas;
 •	Conhecimentos: Excel e ferramentas de análise de dados (Python, R, Power BI);
 •	Habilidades analíticas e capacidade de interpretação de dados complexos;
