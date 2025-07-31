@@ -1,5 +1,5 @@
 ---
-title: "Opção Curso - Bacharelado / Licenciatura (Formulário e link reunião Terça-feira 5 de agosto 19h"
+title: "Opção Curso - Bacharelado / Licenciatura (Formulário e link reunião Terça-feira 5 de agosto 19h)"
 excerpt: "Opção Curso"
 author_profile: false
 categories:
