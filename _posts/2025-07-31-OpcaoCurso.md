@@ -10,8 +10,8 @@ tags:
 Os alunos ingressantes em 2024.1 devem efetuar a escolha do curso - Bacharelado em Ciência da Computação ou Licenciatura em Computação - até 8 de agosto.
 Formulário: <https://docs.google.com/forms/d/e/1FAIpQLSf4TJmTFdrWD6eIzS1QnmiMPrrCgexEb3ax1qqa1FiXFEfu3g/viewform>
 
+Teremos reunião presencial na terça-feira, 5 de agosto, das 11h às 13h, no Auditório.
+
 Além disso, teremos uma reunião virtual às 19h da quinta-feira, 7 de agosto, para maiores explicações:
-
-
 Link da publicação no site do IFB: 
 <https://conferenciaweb.rnp.br/conference/rooms/raimundo-claudio-da-silva-vasconcelos/invite?show-suggestion=false>
