@@ -7,4 +7,4 @@ categories:
 tags:
   - capacitacao
 ---
-A gravação da conversa ocorrida na noite da quinta-feira logo estará disponível.
+A gravação da conversa ocorrida na noite da quinta-feira está disponível aqui: <https://youtu.be/pihKDhdwuIs>
