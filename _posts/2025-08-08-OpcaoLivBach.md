@@ -17,7 +17,7 @@ Considerando que a escolha do curso será definitiva e não poderá ser revertid
 
 Os alunos do 1º semestre tem até essa data para definirem. Se alguém já respondeu o formulário, pode mudar a opção até a data limite, para isso basta responder o formulário.
 
-Informo também que serão ofertadas 2 disciplinas fora de fluxo da Licenciatura em Computação, Práticas de Ensino 1 e Estágio Supervisionado 1, para quem quiser optar pela licenciatura sugerimos fortemente que se matricule nestas disciplinas para aproveitar no novo currículo.
+Informo também que serão ofertadas 2 disciplinas fora de fluxo da Licenciatura em Computação: <Práticas de Ensino 1> e <Estágio Supervisionado 1>, para quem quiser optar pela licenciatura sugerimos fortemente que se matricule nestas disciplinas para aproveitar no novo currículo.
 
 Quem está com dúvidas, também faço essa sugestão, para experimentarem disciplinas da licenciatura e facilitar a opção. Caso vejam que a licenciatura não é o seu perfil, essas disciplinas podem ser usadas como disciplinas optativas do curso e/ou horas complementares.
 
