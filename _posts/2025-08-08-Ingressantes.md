@@ -8,7 +8,7 @@ tags:
   - ingressantes opção curso
 ---
 
-Informamos que a reunião de ontem foi gravada e está disponível no link <https://youtu.be/pihKDhdwuIs>
+Informamos que a reunião de quinta-feira, 7 de agosto, foi gravada e está disponível no link <https://youtu.be/pihKDhdwuIs>
 
 Alguns alunos do 1º semestre nos procuraram preocupados em ter que escolher a opção de curso agora (explicamos o motivo na reunião de ontem). 
 
