@@ -1,6 +1,6 @@
 ---
-title: "ALUINOS INGRESSANTES 2025.1 Opção Bacharelado / Licenciatura (Gravação)"
-excerpt: "ALunos Ingressantes Opção Curso"
+title: "ALUNOS INGRESSANTES 2025.1 Opção Bacharelado / Licenciatura (Gravação)"
+excerpt: "Alunos Ingressantes Opção Curso"
 author_profile: false
 categories:
   - ingressantes opção curso
