@@ -1,6 +1,6 @@
 ---
 title: "Avaliador Voluntário "
-excerpt: "Horarios"
+excerpt: "Secretaria de Estado de Educação do Distrito Federal (SEEDF) convida estudantes IFB para serem avaliadores voluntários no 14º Circuito Regional de Ciências das Escolas Públicas de Ceilândia"
 author_profile: false
 categories:
   - Avaliador Voluntátio - 14º Circuito Regional de Ciências das Escolas Públicas de Ceilândia
@@ -11,7 +11,7 @@ Secretaria de Estado de Educação do Distrito Federal (SEEDF) convida estudante
 
 Essa atividade conta como horas complementares para o curso, além de contribuir para a disseminação das ciências nas escolas públicas do DF.
 
-Para quem se interessar, segue abaixo a mensagem recebida pela Coordenação Regional de Ensino de Ceilândia (CREC).
+Para saber mais sobre o evento, acesse o site oficial: <https://circuitocienciasedf.com.br/>
 
 Informações importantes:
 * Função: Avaliar os trabalhos apresentados pelos estudantes.
