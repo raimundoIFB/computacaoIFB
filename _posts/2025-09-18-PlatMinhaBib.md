@@ -21,4 +21,4 @@ Quaisquer dúvidas, entre em contato: e-mail biblioteca.ctag@ifb.edu.br ou telef
 
 Após o cadastro você pode acessar os livros da Minha Biblioteca disponíveis no Catálogo online Sophia IFB. Caso necessite, utilize este Tutorial de acesso aos livros digitais  e entenda melhor como usar a plataforma.
 
-Catálogo Online da Bibluioteca <(https://bibliotecas.ifb.edu.br/)>
+Catálogo Online da Bibluioteca (<https://bibliotecas.ifb.edu.br/>)
