@@ -1,3 +1,4 @@
+---
 title: "Disciplina Eletiva - Novas Tecnologias de Mídia - Aula Inaugural"
 excerpt: "Aula Inaugural"
 author_profile: false
