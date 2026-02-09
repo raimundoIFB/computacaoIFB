@@ -25,6 +25,7 @@ A lista de prováveis formandos do curso de Bacharelado em Ciência da Computaç
 | Cibely Araujo e Silva |
 | Vinícius Matheus Lemos De Paula | 
 | Heloise Katharine Pereira Silva |  
+| Luís Eduardo de Campos |
 
 Os alunos listados deverão quitar todas as pendências até a colação de grau, como as entregas de:
 
