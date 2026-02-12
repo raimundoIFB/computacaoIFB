@@ -8,4 +8,4 @@ tags:
   - avisos
 ---
 
-Já en encontra disponível as inscrições para monitor em diversas disciplinas dos cursos de Bacharelado em Ciência da Computação e Licenciatura em Computação. Mais informações estão disponíveis em [https://www.ifb.edu.br/taguatinga/45801-programa-monitoria-voluntaria-nao-remunerada-edital]
+Já en encontra disponível as inscrições para monitor em diversas disciplinas dos cursos de Bacharelado em Ciência da Computação e Licenciatura em Computação. Mais informações estão disponíveis em <https://www.ifb.edu.br/taguatinga/45801-programa-monitoria-voluntaria-nao-remunerada-edital>
