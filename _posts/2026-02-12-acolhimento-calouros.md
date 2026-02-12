@@ -8,4 +8,4 @@ tags:
   - avisos
 ---
 
-As coordenações dos cursos de *Bacharelado em Ciência da Computação* e *Licenciatura em Computação* convidam todos os alunos calouros para uma reunião à ocorrer no dia 23 de feveeiro, às 10h, no auditório do *campus* Taguatinga.
+As coordenações dos cursos de *Bacharelado em Ciência da Computação* e *Licenciatura em Computação* convidam todos os alunos calouros para uma reunião à ocorrer no dia 23 de feveeiro, às 9h, no auditório do *campus* Taguatinga.
