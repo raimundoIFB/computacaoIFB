@@ -12,7 +12,10 @@ main:
   - title: "Serviços Datacenter Acadêmico"
     abbreviation: "Serviços"
     url: /serv_da/
-
+  - title: "LEGIA"
+    abbreviation: "LEGIA"
+    url: /LEGIA/
+    
 bcc:
   - title: "Apresentação"
     url: /bcc/apresentacao
@@ -95,4 +98,6 @@ serv_da:
     url: /serv_da/vm
   - title: "Acesso VPN"
     url: /serv_da/vpn
-  
+LEGIA:
+  - title: "Letriamento, Ética e Gestão em IA"
+    url: /LEGIA/index  
