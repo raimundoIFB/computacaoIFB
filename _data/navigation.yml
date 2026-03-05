@@ -98,6 +98,12 @@ serv_da:
     url: /serv_da/vm
   - title: "Acesso VPN"
     url: /serv_da/vpn
-LEGIA:
-  - title: "Letriamento, Ética e Gestão em IA"
-    url: /LEGIA/index  
+legia:
+  - title: "Apresentação"
+    url: /legia/index
+  # - title: "Apresentação"
+  #   url: /legia/index
+  # - title: "Apresentação"
+  #   url: /legia/index
+  # - title: "Apresentação"
+  #   url: /legia/index

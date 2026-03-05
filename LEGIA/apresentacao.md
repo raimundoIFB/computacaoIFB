@@ -6,6 +6,4 @@ sidebar:
     nav: "legia"
 ---
 
-
-
-Oi....logo estaremos aqui!
+{% include_relative index.md %}
