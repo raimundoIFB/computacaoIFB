@@ -101,8 +101,8 @@ serv_da:
 legia:
   - title: "Apresentação"
     url: /legia/index
-  # - title: "Apresentação"
-  #   url: /legia/index
+  - title: "Formação em IA"
+    url: /legia/formacao-em-ia
   # - title: "Apresentação"
   #   url: /legia/index
   # - title: "Apresentação"
