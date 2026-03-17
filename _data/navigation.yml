@@ -100,9 +100,9 @@ serv_da:
     url: /serv_da/vpn
 legia:
   - title: "Apresentação"
-    url: /legia/index
+    url: /LEGIA/index
   - title: "Formação em IA"
-    url: /legia/formacao-em-ia
+    url: /LEGIA/formacao-em-ia
   # - title: "Apresentação"
   #   url: /legia/index
   # - title: "Apresentação"
