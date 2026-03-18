@@ -32,5 +32,3 @@ Nesta página você encontrará materiais de estudo, documentos técnicos e prod
 *   **Metodologias de Letramento Crítico**
 
 ---
-
-Se você deseja sugerir algum material, entre em contato com a equipe de curadoria.

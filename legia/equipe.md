@@ -32,5 +32,3 @@ O **LEGIA** conta com uma equipe multidisciplinar composta por pesquisadores, pr
 *   **Aluna Exemplo** - UnB - [Lattes](#)
 
 ---
-
-Se você faz parte da equipe e seu nome não consta nesta lista, entre em contato com a coordenação.
