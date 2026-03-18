@@ -103,3 +103,7 @@ legia:
     url: /legia/index
   - title: "Plano de Trabalho"
     url: /legia/plano-de-trabalho
+  - title: "Equipe"
+    url: /legia/equipe
+  - title: "Material de Apoio"
+    url: /legia/material-de-apoio
