@@ -100,10 +100,10 @@ serv_da:
     url: /serv_da/vpn
 legia:
   - title: "Apresentação"
-    url: /legia/index
+    url: /legia/
   - title: "Plano de Trabalho"
-    url: /legia/plano-de-trabalho
+    url: /legia/plano-de-trabalho/
   - title: "Equipe"
-    url: /legia/equipe
+    url: /legia/equipe/
   - title: "Material de Apoio"
-    url: /legia/material-de-apoio
+    url: /legia/material-de-apoio/
