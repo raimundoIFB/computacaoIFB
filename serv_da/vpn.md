@@ -12,7 +12,7 @@ O acesso será liberado apenas após a equipe de TI confirmar com o professor or
 
 Baixe o Termo no link abaixo, preencha e assine:
 
-[Termo de Responsabilidade](https://docs.google.com/document/d/1lMb-gauk63zw4lywhyxkLV-pDBEEtnIVFPpgJa5qx4Y/edit?usp=drive_link)
+[Termo de Responsabilidade](https://docs.google.com/document/d/18MnwmwVenpps89O0zBn8dpfe4QO1SqO_sF7wDcxaIb0/edit?copiedFromTrash&tab=t.0)
 
 
 Envie o Termo preenchido e assinado atravéz do formulário abaixo:
