@@ -2,6 +2,7 @@
 layout: single
 author_profile: false
 title: "Material de Apoio"
+permalink: /legia/material-de-apoio/
 sidebar:
     nav: "legia"
 ---
