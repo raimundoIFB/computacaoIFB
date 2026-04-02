@@ -1,15 +1,16 @@
 ---
 layout: single
 author_profile: false
-title: "LEGIA - Letramento, Ética e Governança em Inteligência Artifical"
+title: "LEGIA - Letramento, Ética e Governança em Inteligência Artificial"
+permalink: /legia/
 sidebar:
     nav: "legia"
-
 ---
+
 <style>
   .page__title { display: none; }
 </style>
-<img src="/assets/legia/Logo%20LEGIA%20Cor.png" alt="Logo do LEGIA" style="width:55%; max-width:100%; height:auto; display:block; margin-left:0; margin-right:auto;">
+<img src="/assets/images/legia/Logo%20LEGIA%20Cor.png" alt="Logo do LEGIA" style="width:55%; max-width:100%; height:auto; display:block; margin-left:0; margin-right:auto;">
 
 O **LEGIA** – **Fórum Permanente Letramento, Ética e Governança em Inteligência Artificial** – é uma iniciativa lançada em 2025, em parceria entre o **Instituto Federal de Brasília (IFB)**, a **Universidade de Brasília (UnB)**, por meio da Cátedra UNESCO em Educação Aberta e Tecnologias para o Bem Comum, e o **International Research Centre on Artificial Intelligence (IRCAI/UNESCO)**.
 
@@ -30,4 +31,3 @@ O fórum é dedicado ao desenvolvimento de competências críticas e à promoç�
 
 **Mais informações**  
 - Site oficial da Cátedra UNESCO/UnB: [https://catedra.fe.unb.br/projetos/168-legia](https://catedra.fe.unb.br/projetos/168-legia)  
-

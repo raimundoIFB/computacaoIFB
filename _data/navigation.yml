@@ -14,8 +14,8 @@ main:
     url: /serv_da/
   - title: "LEGIA"
     abbreviation: "LEGIA"
-    url: /LEGIA/
-    
+    url: /legia/
+
 bcc:
   - title: "Apresentação"
     url: /bcc/apresentacao
@@ -100,10 +100,12 @@ serv_da:
     url: /serv_da/vpn
 legia:
   - title: "Apresentação"
-    url: /LEGIA/index
+    url: /legia/apresentacao
+  - title: "Plano de Trabalho"
+    url: /legia/plano-de-trabalho
   - title: "Formação em IA"
-    url: /LEGIA/formacao-em-ia
-  # - title: "Apresentação"
-  #   url: /legia/index
-  # - title: "Apresentação"
-  #   url: /legia/index
+    url: /legia/formacao-em-ia
+  - title: "Equipe"
+    url: /legia/equipe
+  - title: "Material de Apoio"
+    url: /legia/material-de-apoio
