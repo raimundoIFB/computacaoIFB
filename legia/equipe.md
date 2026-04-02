@@ -23,7 +23,7 @@ O **LEGIA** conta com uma equipe multidisciplinar composta por pesquisadores, pr
 | **Anderson Allan Almeida Galvão** | IFB | - |
 | **Thiago Batista Amorim** | IFB | - |
 | **Priscila Gonsales** | UnB | - |
-| **Joao Paulo Pita da Costa** | IRCAI | - |
+| **João Paulo Pita da Costa** | IRCAI | - |
 
 ### Alunos e Bolsistas
 
