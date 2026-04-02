@@ -20,7 +20,7 @@ O fórum conta com a colaboração de pesquisadores e gestores das instituiçõe
 
 *   **Universidade de Brasília (UnB):** Prof. Dr. Tel Amiel (Coordenador), Profa. Dra. Liliane Machado, Dr. Vandor Rissoli, Profa. Dra. Djaine Damiati e Priscila Gonsales.
 *   **Instituto Federal de Brasília (IFB):** Antônio Justiniano de Moraes Neto (Coordenador), Anderson Allan Almeida Galvão, Dr. Raimundo Vasconcelos, Thiago Batista Amorim e a Reitora Dra. Veruska Machado.
-*   **IRCAI:** Dr. Joao Paulo Pita da Costa.
+*   **IRCAI:** Dr. João Paulo Pita da Costa.
 
 ### Resultados Esperados
 O LEGIA visa a produção de artigos científicos, relatórios de pesquisa e contribuições para a elaboração de políticas públicas e aprimoramento da gestão e governança de IA na educação.
