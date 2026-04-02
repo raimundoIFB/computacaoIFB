@@ -2,6 +2,7 @@
 layout: single
 author_profile: false
 title: "Plano de Trabalho"
+permalink: /legia/plano-de-trabalho/
 sidebar:
     nav: "legia"
 ---
