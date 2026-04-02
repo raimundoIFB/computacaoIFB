@@ -2,6 +2,7 @@
 layout: single
 author_profile: false
 title: "Equipe"
+permalink: /legia/equipe/
 sidebar:
     nav: "legia"
 ---
