@@ -1,5 +1,5 @@
 ---
-title: 'Provesso Seletivo - Técnico em Eletrônica I'
+title: 'Processo Seletivo - Técnico em Eletrônica I'
 excerpt: 'Técnico em Eletrônica I'
 author_profile: false
 categories:
