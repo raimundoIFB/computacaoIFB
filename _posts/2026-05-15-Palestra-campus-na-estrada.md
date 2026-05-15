@@ -15,4 +15,4 @@ Horário: 14h
 
 Local: Auditório
 
-[📄 Download do PDF]({{ site.baseurl }}/assets/all/assets/all/Campus Party_Campus na Estrada 2026_divulg.pdf)
+[📄 Download do PDF]({{ site.baseurl }}/assets/all/assets/all/Party_Campus.pdf)
