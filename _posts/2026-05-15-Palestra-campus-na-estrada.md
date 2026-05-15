@@ -15,4 +15,4 @@ Horário: 14h
 
 Local: Auditório
 
-![CampusParty]({{ site.baseurl }}/assets/all/CampusParty.jpg)
+![CampusParty]({{ site.baseurl }}/assets/all/CampusParty.jpeg)
