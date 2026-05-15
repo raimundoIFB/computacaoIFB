@@ -1,6 +1,6 @@
 
 ---
-title: "Roda de Conversa: Fábio Akita" 
+title: "Campus Party na estrada" 
 excerpt:
 author_profile: false
 categories:
