@@ -1,4 +1,3 @@
-
 ---
 title: "Campus Party na estrada" 
 ---
