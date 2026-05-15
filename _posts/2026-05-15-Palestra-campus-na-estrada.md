@@ -14,5 +14,3 @@ Data: 19/05/2026
 Horário: 14h
 
 Local: Auditório
-
-[📄 Download do PDF]({{ site.baseurl }}/assets/all/assets/all/Party_Campus.pdf)
