@@ -14,3 +14,5 @@ Data: 19/05/2026
 Horário: 14h
 
 Local: Auditório
+
+![CampusParty]({{ site.baseurl }}/assets/all/CampusParty.jpg)
