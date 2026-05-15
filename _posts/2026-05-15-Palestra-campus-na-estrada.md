@@ -13,4 +13,4 @@ Data: 19/05/2026
 Horário: 14h
 Local: Auditório
 
-![Folder]({{site.baseurl | prepend: site.url }}/assets/all/Campus Party_Campus na Estrada 2026_divulg.pdf)
+![Folder]({{site.baseurl | prepend: site.url }}/assets/all/Party_Campus.pdf)
