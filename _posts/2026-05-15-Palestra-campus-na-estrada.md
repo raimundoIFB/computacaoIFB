@@ -15,4 +15,4 @@ Horário: 14h
 
 Local: Auditório
 
-[Folder]({{ site.url }}{{ site.baseurl }}/assets/all/Party_Campus.pdf)
+[📄 Download do PDF]({{ site.baseurl }}/assets/all/Party_Campus.pdf)
