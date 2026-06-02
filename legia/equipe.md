@@ -27,9 +27,15 @@ O **LEGIA** conta com uma equipe multidisciplinar composta por pesquisadores, pr
 
 ### Alunos e Bolsistas
 
-*(Lista em atualização)*
-
-*   **Aluno Exemplo** - IFB - [Lattes](#)
-*   **Aluna Exemplo** - UnB - [Lattes](#)
+| Nome | Instituição | Currículo Lattes |
+| :--- | :--- | :--- |
+| **Gabriel Junio Castro de Lima** | IFB | - |
+| **Giovanni Lucas Oliveira da Silva** | IFB | - |
+| **Henrico Costa Correia** | IFB | - |
+| **Hugo de Paula Souza** | IFB | - |
+| **Igor de Oliveira Moura** | IFB | - |
+| **João Caio de Oliveira Lins** | IFB | - |
+| **Joyce Vieira de Castro Marra** | IFB | - |
+| **Pedro Paulo Martins de Andrade** | IFB | - |
 
 ---
