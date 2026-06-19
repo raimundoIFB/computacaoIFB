@@ -1,4 +1,3 @@
-
 ---
 title: "Defesas PCC/TCC 2026/1"
 excerpt: "Calendário de defesas PCC/TCC 2026/1."
