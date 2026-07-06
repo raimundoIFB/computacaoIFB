@@ -5,8 +5,6 @@ sidebar:
     nav: "legia"
 ---
 
-# Projeto EduColab
-
 O projeto **EduColab** tem como objetivo principal a disseminação do seu **Sistema de Recomendação Educacional** para promover a colaboração em fóruns de discussão do Moodle. Este projeto está inserido na Chamada Capes 3/2025: InovaEDUCAÇÃO e faz parte do **Fórum Permanente de Letramento, Ética e Governança em Inteligência Artificial – LEGIA**.
 
 <div style="text-align: center; margin: 2em 0; padding: 1.5em; background-color: #f8f9fa; border-radius: 8px; border-left: 5px solid #28a745; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
@@ -68,3 +66,4 @@ O projeto conta com a dedicação e o trabalho conjunto da seguinte equipe:
 - João Caio de Oliveira Lins
 - Igor de Oliveira Moura
 - Pedro Paulo Martins de Andrade
+
