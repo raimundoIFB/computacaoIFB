@@ -18,7 +18,6 @@ A lista de prováveis formandos do curso de Bacharelado em Ciência da Computaç
 | Caio Padilha Aguiar |
 
 A lista de prováveis formandos do curso de Licenciatura em Ciência da Computação no período de 2026/2 que irão colar grau no período de 18 e 19 de agosto:
-DARLA ELLEN SANTOS GARCEZ
 
 | Estudantes               |
 |--------------------------|
