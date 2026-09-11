@@ -14,6 +14,7 @@ Estão abertas as inscrições para o EDUCATHON, uma oportunidade para desenvolv
 A participação é gratuita, online e aberta a estudantes universitários de qualquer área do conhecimento.
 
 O que os participantes encontrarão no EDUCATHON em IA?
+
 ✅ Curso gratuito sobre IA generativa
 
 ✅ Desafio prático de criação de prompts
