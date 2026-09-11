@@ -30,6 +30,7 @@ Durante o workshop, os participantes poderão compreender como essas tecnologias
 É uma oportunidade especialmente interessante para quem deseja ampliar seus conhecimentos, desenvolver experiência prática e se aproximar de tecnologias que estão sendo utilizadas profissionalmente na área de desenvolvimento de software e Inteligência Artificial.
 
 👨‍🎓 Haverá certificado de participação.
+
 🎁 Também serão realizados sorteios de brindes.
 
 📅 Data: 12/09
